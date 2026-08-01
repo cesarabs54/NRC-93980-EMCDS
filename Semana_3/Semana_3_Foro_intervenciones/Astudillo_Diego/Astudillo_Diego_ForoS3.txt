@@ -1,0 +1,29 @@
+INTERVENCIONES EN EL FORO - DIEGO ALEJANDRO ASTUDILLO ROJAS
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (20 de jul 21:58) ---
+Hola, buenas noches
+Envio las respuestas del foro
+Respuesta a la pregunta orientadora
+¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+La definición y aplicación adecuada de métricas de calidad es un factor determinante para la sostenibilidad de un producto de software a lo largo de su ciclo de vida. Cuando un equipo cuenta con métricas bien diseñadas, alineadas a estándares reconocidos y a modelos de madurez, obtiene información objetiva sobre el estado real del sistema: número de defectos por módulo, densidad de errores, cobertura de pruebas, complejidad ciclomática, tiempos de respuesta ante fallos, entre otros. Esta información permite priorizar el mantenimiento correctivo, planificar el mantenimiento evolutivo con base en evidencia y no en percepciones subjetivas, y anticipar riesgos antes de que se conviertan en fallos críticos en producción.
+Un aspecto central es que las métricas no son un fin en sí mismas, sino un medio para tomar decisiones. Por ejemplo, un modelo formal de pruebas funcionales orientado a alcanzar niveles de madurez como el nivel 2 permite estructurar la verificación del software de manera sistemática, de modo que los defectos se detecten en etapas tempranas y no se acumulen hasta convertirse en deuda técnica difícil de gestionar. De igual forma, estándares como ISO/IEC 29110, pensados especialmente para entidades pequeñas de desarrollo de software, ofrecen un marco de referencia que evita que las métricas se definan de manera improvisada o desconectada de la realidad organizacional, algo que suele ocurrir en empresas muy pequeñas que carecen de procesos formales de gestión de calidad.
+En el contexto de equipos ágiles, la relevancia de las métricas de productividad y calidad también depende de cómo son percibidas por los propios desarrolladores. Si las métricas se imponen sin consenso ni comprensión de su propósito, el equipo tiende a manipularlas o a ignorarlas, perdiendo su valor como indicador real del estado del software. Esto evidencia que la correcta definición de una métrica no solo es un asunto técnico, sino también organizacional y cultural.
+Ahora bien, cuando las métricas se implementan de manera inadecuada, sin contemplar estándares ni un marco metodológico claro, surgen varios riesgos:
+1.  Falsa sensación de calidad: se puede reportar que el software cumple ciertos indicadores, cuando en realidad estos no miden atributos relevantes para el usuario final, como la usabilidad, generando decisiones erróneas de liberación de versiones.
+2.  Incremento de la deuda técnica: al no detectar tempranamente defectos estructurales, el mantenimiento se vuelve cada vez más costoso y complejo.
+3.  Pérdida de comparabilidad: sin estándares, cada equipo o proyecto mide de forma distinta, lo que impide comparar resultados entre proyectos o auditar procesos de calidad de manera confiable.
+4.  Resistencia organizacional: métricas mal comunicadas o percibidas como mecanismos de control generan rechazo del equipo de desarrollo, afectando la cultura de mejora continua.
+5.  Desalineación con la experiencia del usuario: si la calidad se mide solo desde criterios internos (código, pruebas) y se deja de lado la usabilidad como indicador, el software puede ser técnicamente correcto pero deficiente en su uso real.
+En conclusión, las métricas de calidad son herramientas estratégicas que, cuando se definen con base en estándares y modelos de madurez reconocidos, favorecen un mantenimiento y una evolución del software más predecibles, eficientes y alineados con las necesidades del negocio y del usuario. Su implementación inadecuada, en cambio, no solo distorsiona la percepción de calidad, sino que incrementa los riesgos técnicos, económicos y organizacionales del proyecto.
+Referencias
+Escobar-Sánchez, M. & Fuertes-Díaz, W. (2015). Modelo formal de pruebas funcionales de software para alcanzar el nivel de madurez integrado 2. Revista Facultad De Ingeniería, 24(39), 31-42.
+González-Sánchez, J., Montero-Simarro, F., & Gutiérrez-Vela, F. (2012). Evolución del concepto de usabilidad como indicador de calidad del software. El Profesional De La Información, 21(5), 529-536.
+Hernández, G., Martínez, Á., Jiménez, R., & Jiménez, F. (2020). Cómo los profesionales perciben la relevancia de las métricas de productividad para un equipo ágil de desarrollo de software. Revista Ibérica De Sistemas e Tecnologias De Informação, 596-609.
+Muñoz, M., Peralta, M., & Laporte, C. Y. (2019). Análisis de las debilidades que presentan las entidades muy pequeñas al implementar el estándar ISO/IEC 29110: Una comparativa entre estado del arte y el estado de la práctica. Revista Ibérica De Sistemas e Tecnologias De Informação.
+Feliz noche 
+-   Marcar como no leídoMarcar como no leído
+CO
+CARLOS STEVEN TORRES ORTEGA
+20 de jul 17:51| Last reply 20 de jul 18:50

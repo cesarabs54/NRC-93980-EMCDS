@@ -1,0 +1,27 @@
+INTERVENCIONES EN EL FORO - OMAR AUGUSTO CARDONA SUAREZ
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (19 de jul 15:45) ---
+Compañero, buenas tardes.
+Estoy de acuerdo con lo que mencionas. En el mercado nos encontramos con una alta competitividad comercial, lo que lleva a muchas EMPs a generar productos sin métricas de calidad o trabajar sin metodologías que apunten al mejoramiento continuo. Esto puede percibirse como una ganancia temprana, sin embargo, lo más probable es que se está ocultando deuda técnica que puede llegar a ser imposible de pagar, como por ejemplo lo que mencionas de impactos reputacionales que pueden llevar a la quiebra a una compañía.
+-   Marcar como no leídoMarcar como no leído
+CB
+CRISTIAN ANDRES JOTA BOSSA
+17 de jul 21:59| Last reply 18 de jul 11:47
+
+--- Publicación 2 (19 de jul 15:37) ---
+Compañero, buenas tardes.
+Estoy alineado con lo que mencionas. Inclusive muchas empresas priorizan la entrega de producto a cliente, sin tener métricas que denoten la deuda técnica que esto puede llevar oculto, y que a futuro esta deuda va a acumular intereses que van a ser impagables.
+-   Marcar como no leídoMarcar como no leído
+AC
+ANDRES FELIPE QUINTERO CORRALES
+20 de jul 19:32
+
+--- Publicación 3 (19 de jul 15:33) ---
+Profesor, Compañer@s, espero que se encuentren muy bien.
+Mi experiencia me ha demostrado que definir adecuadamente las métricas de calidad va más allá de cumplir con un requisito del proyecto o políticas de una compañía. Éstas permiten conocer el estado real del desarrollo y tomar decisiones basadas en información objetiva, lo que facilita mejorar tanto el producto como la forma en que trabaja el equipo. Sin ellas, muchas decisiones terminan dependiendo de percepciones o intuiciones que no siempre reflejan la realidad, es decir, aspectos subjetivos. En cuanto al mantenimiento y la evolución del software, considero que las métricas ayudan a identificar y gestionar la deuda técnica. Medir indicadores como el acoplamiento del código, la complejidad o la densidad de defectos permite detectar componentes que serán difíciles de mantener en el futuro y que no va a ser detectable, sino hasta que sea demasiado tarde. En la actualidad existen herramientas potentes que nos ayudan a automatizar estos procesos y que en la mayoría de proyectos no se invierte dinero, esfuerzo o tiempo al inicio del desarrollo, pensando que es mejor favorecer entregas de valor al cliente, sin embargo, lo que está pasando es postergar una deuda que se va a tener que pagar con intereses, es decir, un proyecto mucho más costoso tanto en tiempo como en recursos. En conclusión, considero que las métricas y los estándares se complementan; proporcionan información para evaluar el estado del proyecto, mientras que los estándares ofrecen un marco de trabajo para interpretar esos resultados y orientar la mejora continua. Utilizados de manera conjunta, permiten desarrollar software con mayor calidad, facilitar su mantenimiento y reducir riesgos durante su evolución.
+-   Marcar como no leídoMarcar como no leído
+JG
+JUAN CAMILO CANASTEROS GONZALEZ
+19 de jul 17:33

@@ -1,0 +1,38 @@
+INTERVENCIONES EN EL FORO - CRISTIAN ANDRES JOTA BOSSA
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (17 de jul 21:59) ---
+Cordial saludo
+Buenas noches compañeros.
+Desde mi perspectiva y experiencia una buena aplicación de métricas de calidad ayuda con el crecimiento sostenible del software en cuanto al evaluar la mantenibilidad y facilitar la toma de decisiones informada. Con ayuda de indicadores como la calidad de código y la inspección para detectar defectos en etapas iniciales logramos reducir costos adicionales de corrección que no son previstos , así mejorar visiblemente el desempeño técnico.
+Por ejemplo ya en casos prácticos no tener en cuenta estándares como el ISO/IEC 29110 se tienen grandes riesgos porque los proyectos se vuelven inviables, ante esto muchos profesionales tienen una visión de que las métricas de calidad son tramites irrelevantes sin su comprensión es compleja y no aporta valores evidentes en el trabajo diario. Básicamente sin estándares definidos el software se vuelve un sistema inestable que no cumple los requerimientos y debilidades estructurales en la arquitectura, lo que con lleva a tener constantes replanificaciones y por ende acumulación de fallos. Ya para finalizar esta falta de procesos estandarizados impide crear productos repetibles y sostenibles , lo que hace crecer la probabilidad de fracaso técnico y financiero ante las exigencias del mercado. 
+-   Colapsar hilo del foro de CRISTIAN ANDRES JOTA BOSSA
+Ocultar 2 respuestas
+Ocultar 2 respuestas
+-   Marcar como no leídoMarcar como no leído
+CB
+CRISTIAN ANDRES JOTA BOSSA
+17 de jul 22:06
+
+--- Publicación 2 (17 de jul 22:06) ---
+cordial saludo compañero
+En cuanto al argumento , opino que si es importante la medición al comienzo para tener éxito y viabilidad, las métricas al usarse , nos aseguran avanzar por el camino correcto , reduciendo y detectando fallas para en fases mas tardías no tengamos retrasos o hasta perdidas. Coincido con que las normas o estándares dan estabilidad al los requisitos lo que permiten mayor efectividad en productos eficaces y produccion
+-   Marcar como no leídoMarcar como no leído
+CRISTIAN DAVID GROSSO BELLO
+18 de jul 11:47
+
+--- Publicación 3 (18 de jul 1:27) ---
+cordial saludo compañero
+En cuanto al argumento , opino que si es importante la medición al comienzo para tener éxito y viabilidad, las métricas al usarse , nos aseguran avanzar por el camino correcto , reduciendo y detectando fallas para en fases mas tardías no tengamos retrasos o hasta perdidas. Coincido con que las normas o estándares dan estabilidad al los requisitos lo que permiten mayor efectividad en productos eficaces y produccion
+-   Marcar como no leídoMarcar como no leído
+CARLOS ALBERTO ARCHILA VARGAS
+20 de jul 15:45
+
+--- Publicación 4 (17 de jul 22:11) ---
+Cordial saludo compañero
+En el análisis coincido que las métricas están definidas para que las decisiones sean objetivas para una evolución correcta y técnica. Es importante que la detección de fallas en fases iniciales teniendo indicadores reduce tiempos , costos , retrocesos de código. y coincido como los demás compañeros las normas y estándares existen para ayudarnos y mejorar efectividad en los proyectos en cuanto a la calidad de mantenimientos y crecimiento del software que son temas fundamentales a tener encuenta.
+-   Marcar como no leídoMarcar como no leído
+JC
+JAIRO ALONSO CRISTANCHO
+18 de jul 21:51

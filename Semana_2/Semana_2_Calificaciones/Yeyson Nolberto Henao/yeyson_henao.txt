@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Yeyson Nolberto Henao
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana, de forma sobresaliente. El estudiante trabajó el caso oficial MediCitas v3.2 con un nivel de rigor y trazabilidad muy alto. Además de cubrir todos los componentes exigidos (6 hallazgos de seguridad ligados a característica ISO/IEC 25010, matriz de verificación y validación de 10 filas, checklist de 14 ítems, plan de auditoría completo con firma, 7 métricas con fórmula, valor actual y criterio de aceptación), resolvió de manera literal los "problemas matemáticos" que da nombre a la actividad: planteó y resolvió paso a paso 5 problemas cuantitativos derivados directamente de la evidencia del caso (porcentaje de cambios sin aprobación = 40 %, cobertura de ejecución de pruebas = 66,7 %, tasa de éxito del batch = 89,3 %, margen mensual de indisponibilidad = 126 minutos, porcentaje de requisitos de prioridad alta conformes = 0 %), seleccionando la respuesta correcta entre opciones y justificando cada resultado frente a su criterio de aceptación.
+
+Esta sección cuantitativa, poco común entre los demás desarrollos, refuerza con evidencia numérica exactamente lo que pide el resultado de aprendizaje de la semana.
+
+2. Orientación para mejorar:
+
+El desarrollo está prácticamente completo y no presenta vacíos frente a lo solicitado. Como único ajuste menor, se podría anexar al final una tabla resumen que muestre en una sola vista el estado de las 5 recomendaciones priorizadas (responsable, plazo estimado) para facilitar su seguimiento operativo por parte de la IPS, ya que actualmente quedan enunciadas en el texto pero sin un formato de seguimiento explícito.
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

@@ -1,0 +1,36 @@
+NOMBRE ESTUDIANTE: Andrés Felipe Quintero Corrales
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia refleja plenamente el resultado de aprendizaje de la semana. El estudiante desarrolló el caso MediCitas v3.2 tal como fue planteado en el archivo de apoyo, sin sustituirlo por un escenario propio, y completó todos los componentes exigidos: identificó y justificó 5 hallazgos de seguridad con severidad y recomendación; construyó una matriz de verificación y validación de 10 filas que diferencia con claridad las actividades de verificación (auditoría de código, revisión de configuración, inspección) de las de validación (pruebas de carga, UAT con personal médico y pacientes piloto); diseñó una lista de control de revisiones técnicas de 14 ítems con evidencia puntual para cada "NO"; y elaboró un plan de auditoría completo (objetivo, alcance, criterios normativos, equipo auditor, evidencia a recolectar).
+
+Aplicó ISO/IEC 25010 hallazgo por hallazgo, indicando la característica y subcaracterística afectada (confidencialidad, integridad, fiabilidad) en vez de mencionarlo solo de forma general, y definió 5 métricas con fórmula y criterio de aceptación numérico verificable contra los datos del caso.
+
+Cierra con una conclusión desfavorable a la liberación y recomendaciones priorizadas por nivel de criticidad, coherente con la evidencia presentada.
+
+Vulnerabilidades graves de seguridad y privacidad:  
+Persisten riesgos tipo IDOR en el módulo de Historias Clínicas Electrónicas y fallas en la protección de datos financieros, lo que podría generar filtraciones y sanciones legales.
+
+Falta de pruebas obligatorias:  
+No se realizaron pruebas de carga ni análisis dinámicos de seguridad sobre los nuevos componentes de video consulta, impidiendo asegurar estabilidad y confiabilidad operativa.
+
+Debilidad en la gobernanza de TI:  
+Se detectaron cambios y despliegues sin aprobación formal (CR‑202 y CR‑205), evidenciando fallas en los controles de gestión de cambios y segregación de funciones.
+
+
+2. Orientación para mejorar:
+
+El trabajo está prácticamente completo frente a lo solicitado. Para fortalecerlo aún más se puede: citar explícitamente las fuentes de los recursos básicos de la semana (Chavarría et al., 2016; Paredes et al., 2017) dentro del cuerpo del análisis y no solo dejarlas implícitas en el enfoque metodológico, e incluir el listado de referencias en formato APA al final del documento, que no aparece en la versión entregada.
+
+CALIFICACIÓN TOTAL: 4.8 / 5.0
+
+
+Tras concluir la evaluación técnica y operativa sobre la versión 3.2 del sistema MediCitas de la IPS Salud Total, este despacho emite un concepto desfavorable para su puesta en marcha. La plataforma no se encuentra en condiciones óptimas ni seguras para su liberación en el entorno de producción debido a las siguientes consideraciones clave:
+
+Riesgo Crítico de Seguridad y Privacidad: Persisten brechas graves no remediadas en el control de acceso a nivel de objeto (IDOR) dentro del módulo de Historias Clínicas Electrónicas (HCE) y fallas en la ofuscación de datos financieros (PAN). Liberar el sistema en este estado expone a la entidad a filtraciones de datos de salud e incumplimiento normativo legal.
+
+Ausencia de Validación y Pruebas Obligatorias: Se constató la falta de ejecución de pruebas críticas de desempeño bajo carga y análisis dinámicos de seguridad (Pentest/DAST) sobre los nuevos componentes de video consulta, impidiendo garantizar la estabilidad técnica de la red de clínicas ambulatorias.
+
+Quiebre en la Gobernanza de TI: La detección de cambios y despliegues realizados en entornos controlados sin la debida aprobación registrada (específicamente las órdenes CR-202 y CR-205) evidencia una debilidad material en los controles de gestión de cambios y segregación de funciones.

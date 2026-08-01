@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: Andrés Steven Beltrán Forero
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia en buena medida refleja el alcance del resultado de aprendizaje. El estudiante trabajó sobre el caso oficial MediCitas v3.2 y explicó con claridad, en la sección de procedimiento, la ruta que siguió: leer el caso, cruzar requisitos con incidencias y pruebas, revisar el control de cambios, y a partir de ahí definir hallazgos, actividades de V&V, checklist, hallazgos de auditoría y métricas. Presentó una matriz de verificación y validación completa que separa correctamente verificación de validación para cada requisito (RF-014 a RF-060), un checklist de 18 ítems con evidencia puntual, un formato de hallazgos con severidad y recomendación para 8 hallazgos (incluyendo los cambios sin revisión, CR-202 y CR-205), y 5 métricas con fórmula y criterio de aceptación numérico. La conclusión final es coherente con la evidencia: no recomienda la liberación mientras persistan los hallazgos críticos.
+
+2. Orientación para mejorar:
+
+Lo que más fortalecería este reporte es incluir el plan de auditoría propiamente dicho: el documento pasa directamente de la lista de control técnico al formato de hallazgos, sin un apartado explícito de objetivo, alcance, criterios de auditoría (normas de referencia), equipo auditor y evidencia a recolectar, que la actividad pide como parte del diseño de auditoría. También se recomienda desarrollar la aplicación de ISO/IEC 25010 más allá de la mención general: mostrar, para al menos los hallazgos más críticos, a qué característica y subcaracterística del estándar corresponde cada uno (seguridad, fiabilidad, etc.), como sí se hace con las métricas.
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

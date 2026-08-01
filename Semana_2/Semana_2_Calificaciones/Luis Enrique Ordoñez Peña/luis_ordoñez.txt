@@ -1,0 +1,19 @@
+NOMBRE ESTUDIANTE: Luis Enrique Ordoñez Peña
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento del resultado de aprendizaje de la semana. El estudiante plantea su propio caso (e-commerce "La Fresita", opción que la actividad permite) y opta por un enfoque metodológico distinto al sugerido a modo de ejemplo en la actividad, basado en el modelo COMPETISOFT y la matriz de calidad de McCall en lugar de ISO/IEC 25010, lo cual es una alternativa válida.
+
+Presenta métricas de calidad calculadas con datos concretos (tiempo de respuesta de 3200 ms, disponibilidad del 95 %, 6 % de vulnerabilidades detectadas) y es transparente al declarar el uso de herramientas de apoyo (Copilot y Mendeley Cite).
+
+Sin embargo, el desarrollo no incluye varios de los componentes que pide explícitamente la actividad: no hay una matriz de verificación y validación que distinga, para cada requisito, si corresponde una actividad de verificación o de validación con técnica, responsable, criterio de aceptación y evidencia esperada; no se presenta una lista explícita de al menos 5 hallazgos de seguridad justificados; y el plan de auditoría no incluye los criterios de auditoría ni las evidencias a recolectar como apartados independientes.
+
+2. Orientación para mejorar:
+
+Se recomienda incorporar los tres componentes que actualmente faltan: primero, una matriz de verificación y validación en el formato solicitado (requisito, tipo V/V, técnica, responsable, criterio de aceptación, evidencia esperada); segundo, una lista explícita de al menos 5 hallazgos de seguridad, cada uno con su evidencia y su impacto; y tercero, completar el plan de auditoría con los criterios de auditoría (normas o estándares de referencia) y las evidencias a recolectar.
+
+El uso de COMPETISOFT y McCall puede mantenerse como marco de calidad, siempre que se complementen estos componentes estructurales que la actividad exige de forma explícita.
+
+CALIFICACIÓN TOTAL: 3.1 / 5.0

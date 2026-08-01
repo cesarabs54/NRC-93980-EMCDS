@@ -1,0 +1,18 @@
+NOMBRE ESTUDIANTE: Omar Augusto Cardona Suárez
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento del resultado de aprendizaje de la semana. El estudiante trabajó el caso oficial MediCitas v3.2 y organizó su análisis alrededor de una metodología propia basada en PDCA/PSP (Carrizo y Alfaro, 2018), lo que muestra capacidad de ir más allá de la plantilla básica.
+
+Completó la matriz de verificación y validación (7 filas, con técnicas concretas como inspección de DevTools para el canal de video o pruebas de aceptación con el oficial de protección de datos), el checklist de 14 ítems con observación puntual para cada respuesta, un plan de auditoría con objetivo, alcance, criterios y evidencias, 5 hallazgos de seguridad muy bien justificados con norma incumplida e impacto de negocio, y una aplicación de ISO/IEC 25010 en 4 características con deficiencia calificada.
+
+La conclusión y las recomendaciones priorizadas son coherentes con los hallazgos.
+
+2. Orientación para mejorar:
+
+El punto que más se debe reforzar es la trazabilidad de las métricas hacia los datos del caso: la M-04 (Porcentaje de Costo de Calidad) y la M-05 (Tasa de Evaluación a Fallas) usan cifras y unidades que no se derivan directamente de la evidencia entregada en el archivo de apoyo (no hay datos de costos ni de horas de revisión en el caso MediCitas), lo que les resta el carácter medible y verificable que exige la actividad; conviene reemplazarlas por métricas que sí puedan calcularse con la información disponible, como se hizo correctamente con la M-01, M-02 y M-03.
+
+
+CALIFICACIÓN TOTAL: 4.5 / 5.0

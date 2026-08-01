@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: OMAR AUGUSTO CARDONA SUAREZ
+
+1. Resultado de aprendizaje logrado.
+
+Sí, con buen nivel. La Intervención 1 desarrolla con voz propia y ejemplos concretos (automatización de pruebas, acoplamiento del código, complejidad) cómo las métricas permiten gestionar la deuda técnica y evitar que las decisiones dependan de percepciones subjetivas, cerrando con una conclusión clara sobre la complementariedad entre métricas y estándares. En la Intervención 2 replicó a dos compañeros (Jairo Cristancho y Johan Pedraos), en ambos casos ampliando el argumento original con ideas propias: la presión de la competitividad comercial que lleva a saltarse las métricas, y el riesgo de acumular deuda técnica oculta.
+
+2. Orientación para mejorar.
+
+El desarrollo es sólido pero no cita ninguno de los cuatro recursos del curso, apoyándose solo en experiencia personal; incorporar al menos una referencia (por ejemplo Muñoz et al. sobre entidades pequeñas, que encaja directamente con el ejemplo de EMPs que ya usa) elevaría el nivel académico de la respuesta. Las réplicas, aunque añaden ideas, siguen siendo de acuerdo con el compañero; se recomienda en al menos una de ellas plantear un punto de desacuerdo o una limitación del argumento original.
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

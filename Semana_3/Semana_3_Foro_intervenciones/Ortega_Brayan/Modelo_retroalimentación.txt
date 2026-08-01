@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: BRAYAN RAFAEL ORTEGA PLATA
+
+1. Resultado de aprendizaje logrado.
+
+Sí. La Intervención 1 responde con claridad que las métricas facilitan el mantenimiento al identificar oportunidades de mejora y que el estándar ISO/IEC 29110 ofrece criterios objetivos para medir y mejorar la calidad. En la Intervención 2 el estudiante replicó a dos compañeros (Yesid Ávila y Luis Ordóñez), cumpliendo el número mínimo exigido.
+
+2. Orientación para mejorar.
+
+La respuesta inicial es correcta pero general, sin ejemplos ni una métrica específica desarrollada más allá de nombrar el estándar. Las dos réplicas añaden una idea breve (prevención de reprocesos, revisión continua) pero mantienen un tono de acuerdo sin cuestionar ningún punto del compañero. Se recomienda desarrollar con mayor detalle cómo el ISO/IEC 29110 se traduce en una métrica concreta, y en las réplicas plantear al menos un matiz que difiera del argumento original.
+
+CALIFICACIÓN TOTAL: 3.7 / 5.0

@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Erwin Obregón Meneses
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana. El estudiante diligenció completamente las plantillas del archivo de apoyo sobre el caso oficial MediCitas v3.2: una matriz de verificación y validación de 12 filas que cubre los 6 requisitos diferenciando verificación de validación para cada uno, una lista de control de revisiones técnicas de 14 ítems con observación puntual para cada respuesta, y un formato de auditoría completo (objetivo, alcance, criterios normativos citando incluso IEEE 1028 e IEEE 730, equipo auditor, evidencias) con 8 hallazgos que enlazan criterio incumplido, evidencia, severidad, la característica de ISO/IEC 25010 afectada y recomendación.
+
+La conclusión es coherente con la evidencia y no recomienda la liberación mientras persistan los hallazgos críticos.
+
+2. Orientación para mejorar:
+
+El vacío principal es que el reporte no incluye una sección de métricas de calidad independiente: aunque se referencia ISO/IEC 25010 en la tabla de hallazgos, la actividad pide definir al menos 5 métricas con su fórmula o forma de medición y su criterio de aceptación (por ejemplo, densidad de hallazgos críticos, cobertura de pruebas ejecutadas, porcentaje de cambios aprobados antes del despliegue, disponibilidad del sistema), y esa sección no aparece en el documento. Añadirla, apoyándose en los datos ya disponibles en la bitácora y en los resultados de pruebas, completaría el trabajo.
+
+CALIFICACIÓN TOTAL: 4.2 / 5.0

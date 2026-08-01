@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: DIEGO ALEJANDRO ASTUDILLO ROJAS
+
+1. Resultado de aprendizaje logrado.
+
+Sí, en la Intervención 1. El estudiante entregó una respuesta completa y bien argumentada a la pregunta orientadora: explicó cómo las métricas bien definidas (densidad de defectos, cobertura de pruebas, complejidad ciclomática, tiempos de respuesta) permiten planificar mantenimiento correctivo y evolutivo con evidencia, citó correctamente las cuatro referencias del curso (Escobar-Sánchez y Fuertes-Díaz, Muñoz et al., Hernández et al., González-Sánchez et al.) integrándolas a su propio argumento, y enumeró de forma ordenada cinco riesgos concretos de implementar métricas sin estándares (falsa sensación de calidad, deuda técnica, pérdida de comparabilidad, resistencia organizacional, desalineación con la experiencia de usuario). Es la evidencia individual más completa y mejor referenciada del grupo revisado.
+
+2. Orientación para mejorar.
+
+Lo que falta es la Intervención 2: no se encontró ninguna réplica del estudiante a las participaciones de sus compañeros, cuando la guía pide como mínimo dos. Por sólida que sea la respuesta inicial, el foro evalúa explícitamente la 'capacidad de análisis en el debate con sus compañeros', y sin réplicas ese componente queda sin evidencia. Para complementar la actividad, el estudiante debe entrar a los hilos de al menos dos compañeros y responder de forma argumentada retomando o discutiendo puntos concretos de sus aportes, apoyándose en los mismos recursos que ya maneja bien.
+
+CALIFICACIÓN TOTAL: 2.8 / 5.0

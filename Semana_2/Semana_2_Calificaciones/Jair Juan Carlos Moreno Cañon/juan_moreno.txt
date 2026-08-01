@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Jair Juan Carlos Moreno Cañón
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana, parcialmente. El estudiante centra su reporte en el caso oficial MediCitas v3.2 y demuestra comprensión conceptual de la diferencia entre verificación y validación, cita hallazgos correctos (acceso indebido por manipulación de URL, cuentas compartidas, videollamada sin cifrar, exposición de tarjetas en logs, ausencia de auditoría de lecturas) y presenta una tabla compacta de 5 métricas con fórmula y criterio de aceptación.
+
+Sin embargo, la actividad solicita: la matriz de verificación y validación en el formato de tabla solicitado (solo un listado general de técnicas), no aparece una lista de control de revisiones técnicas (checklist), y tampoco se incluye un plan de auditoría con objetivo, alcance, criterios y evidencias a recolectar.
+
+2. Orientación para mejorar:
+
+Es necesario completar tres componentes que actualmente no están en el documento: primero, la matriz de verificación y validación en formato de tabla, con una fila por requisito (RF-014 a RF-060), indicando tipo (V/V), técnica, responsable, criterio de aceptación y evidencia esperada; segundo, la lista de control de revisiones técnicas con al menos 10 ítems de tipo Sí/No/N.A., cada uno con su observación; y tercero, el plan de auditoría con los apartados que trae la plantilla del archivo de apoyo (objetivo, alcance, criterios de auditoría, equipo auditor, fecha de ejecución y evidencias a recolectar). Apoyarse directamente en la plantilla entregada en el archivo de apoyo facilitaría completar estos tres apartados sin necesidad de crear el formato desde cero.
+
+CALIFICACIÓN TOTAL: 2.4 / 5.0

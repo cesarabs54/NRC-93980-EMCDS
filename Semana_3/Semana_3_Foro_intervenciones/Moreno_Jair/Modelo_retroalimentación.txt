@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: JAIR JUAN CARLOS MORENO CAÑON
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 cubre las dos partes de la pregunta: explica que las métricas permiten evaluar objetivamente el desempeño y detectar defectos por componente, y que su ausencia —junto con la falta de estándares como ISO/IEC 29110— dificulta la comparación de resultados y aumenta la probabilidad de que los defectos lleguen al usuario final.
+
+2. Orientación para mejorar.
+
+Falta por completo la Intervención 2: no se encontró ninguna réplica del estudiante en los hilos de sus compañeros. Adicionalmente, la redacción de la Intervención 1 mezcla varias ideas en oraciones muy largas sin puntuación que las separe, lo que dificulta seguir el argumento; conviene dividir el texto en frases más cortas. Para completar la actividad, debe ingresar a al menos dos hilos de compañeros y responder de forma argumentada a puntos específicos de sus aportes.
+
+CALIFICACIÓN TOTAL: 2.4 / 5.0

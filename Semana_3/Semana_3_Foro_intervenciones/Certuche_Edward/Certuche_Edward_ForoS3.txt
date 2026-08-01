@@ -1,0 +1,27 @@
+INTERVENCIONES EN EL FORO - EDWARD SANTIAGO CERTUCHE CERTUCHE
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (18 de jul 19:46) ---
+Cordial saludo compañero.
+Estoy de acuerdo contigo cuando dices que las métricas deben de ser revisadas continuamente, pues la variación de los requisitos conllevan proyecciones técnicas y de organización diferentes, por ende se estiman tiempos de enfoque para puntos específicos. Por ejemplo dentro de los sprints también se utilizan métricas para seleccionar u organizar las tareas de acuerdo a su nivel de prioridad y de inversión de esfuerzo.  
+-   Marcar como no leídoMarcar como no leído
+YS
+YESID AVILA SOTELO
+16 de jul 20:33| Last reply 20 de jul 13:27
+
+--- Publicación 2 (18 de jul 19:32) ---
+Cordial saludo compañero.
+Resalto algo que describes y es específicamente cuando se generan resultados engañosos, es producto de cero implementación de métricas o implementación errónea de las mismas. La interpretación del resultado es igual de importante que su formulación y ejecución. Creería que su impacto negativo, sería a gran nivel, ya que que se produciría una secuencia de errores reflejados al momento de la probación del producto.  
+-   Marcar como no leídoMarcar como no leído
+JY
+JOHAN CAMILO PEDRAOS YOPASA
+19 de jul 12:10
+
+--- Publicación 3 (18 de jul 14:17) ---
+Cordial saludo profesor y compañeros.
+Pienso que la correcta definición y aplicación de las métricas en el mantenimiento influyen impactando en la reducción de reprocesos, la mitigación de la deuda técnica, un bajo nivel de retraso en los tiempos de entrega y la garantía en la calidad de las funcionalidades. De otro modo, la evolución del software se ve reflejada de una manera positiva, pues se avanza con certeza y fiabilidad al identificar puntos determinantes como el nivel de ejecución del proyecto, la calidad en las pruebas y su oportuna corrección. De esta manera, se garantiza una entrega continua de valor por medio del producto a las necesidades del usuario.
+Del otro lado, encontramos un impacto negativo al no parametrizarlas e implementarlas de manera adecuada desde el inicio. Al ignorar el uso de estándares de calidad reconocidos, se corre el riesgo de medir sin un marco de referencia confiable, lo que se ve reflejado en el incumplimiento de cronogramas establecidos y la ejecución de reprocesos que a su vez generan gastos económicos, reconsideración de inversiones y pérdida de confianza tanto en el proceso de desarrollo como en el producto final. Es muy importante conocer hoy en día que existen una variedad de estos estándares que guían la formulación de métricas, permitiendo incluso evaluar el desempeño de los equipos bajo metodologías de desarrollo ágil de forma objetiva
+-   Marcar como no leídoMarcar como no leído
+JOSE LUIS LINEROS HURTADO
+18 de jul 14:57

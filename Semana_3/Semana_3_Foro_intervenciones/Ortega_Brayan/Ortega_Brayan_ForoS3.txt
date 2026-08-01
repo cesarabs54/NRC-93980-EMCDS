@@ -1,0 +1,27 @@
+INTERVENCIONES EN EL FORO - BRAYAN RAFAEL ORTEGA PLATA
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (17 de jul 11:26) ---
+Buen dia, cordial saludo a todos los compañeros; mi aporte presentado al foro tiene el siguiente enfoque.
+La correcta definición y aplicación de métricas de calidad es fundamental para evaluar objetivamente si un software cumple con los requisitos funcionales y no funcionales establecidos. Estas métricas facilitan el mantenimiento al identificar oportunidades de mejora y permiten realizar cambios de forma controlada, reduciendo el riesgo de afectar la estabilidad del sistema. Asimismo, favorecen la evolución del software al proporcionar información para adaptarlo a nuevas necesidades. En este proceso, estándares como ISO/IEC 29110 ofrecen criterios objetivos para medir y mejorar la calidad. Por otra parte, implementar métricas sin el apoyo de estándares puede impedir la detección oportuna de errores, aumentar los costos de mantenimiento, afectar la estabilidad del sistema y generar desconfianza en los usuarios, además de dificultar la toma de decisiones y la mejora continua del software.
+-   Colapsar hilo del foro de BRAYAN RAFAEL ORTEGA PLATA
+Ocultar 3 respuestas
+Ocultar 3 respuestas
+-   Marcar como no leídoMarcar como no leído
+LUIS ENRIQUE ORDOÑEZ PEÑA
+17 de jul 15:39
+
+--- Publicación 2 (17 de jul 11:37) ---
+Muy interesante tu aporte, compañero. Afianzando tu idea, considero que la aplicación adecuada de los estándares de calidad también contribuye a prevenir reprocesos y a detectar inconsistencias antes de que el software llegue a producción. De lo contrario, los errores pueden incrementar los tiempos y costos de corrección, además de afectar la confianza del cliente y dificultar el cumplimiento de los objetivos de calidad del software.
+-   Marcar como no leídoMarcar como no leído
+SS
+SERGIO ANDRES RAMIREZ SANCHEZ
+17 de jul 17:31
+
+--- Publicación 3 (17 de jul 11:49) ---
+Buen aporte, compañero. Comparto tu opinión sobre la importancia de definir métricas con base en estándares, ya que esto permite obtener información confiable para la toma de decisiones. Además, considero que el seguimiento continuo de estas métricas facilita identificar oportunidades de mejora, priorizar las actividades de mantenimiento y evaluar si los cambios implementados realmente incrementan la calidad y el rendimiento del software
+-   Marcar como no leídoMarcar como no leído
+JC
+JAIRO ALONSO CRISTANCHO
+18 de jul 21:48

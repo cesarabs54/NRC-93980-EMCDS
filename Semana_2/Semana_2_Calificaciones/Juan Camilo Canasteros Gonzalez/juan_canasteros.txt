@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Juan Camilo Canasteros González
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana, de forma sobresaliente. El estudiante desarrolló el caso oficial MediCitas v3.2, cubriendo los seis requisitos de la especificación y extendiendo la matriz de verificación y validación con cuatro funcionalidades adicionales pertinentes (control de acceso por roles, usabilidad del agendamiento, disponibilidad de la HCE y notificaciones SMS), sin desviarse del escenario provisto. Presenta un checklist de 16 ítems (supera el mínimo de 10) con observación puntual para cada respuesta, un plan de auditoría completo con 5 hallazgos ligados a criterio normativo, evidencia y recomendación, la aplicación de ISO/IEC 25010 en 4 características críticas para el caso, y 5 métricas de calidad con fórmula y aplicación concreta a los datos del escenario.
+
+Las conclusiones y recomendaciones priorizadas son coherentes con toda la evidencia presentada, y las referencias están en formato APA.
+
+2. Orientación para mejorar:
+
+El desarrollo está prácticamente completo. Como único ajuste, se podría profundizar un poco más la aplicación de ISO/IEC 25010, incluyendo también las características de mantenibilidad y compatibilidad (relevantes por los cambios sin revisión y por la integración con el sistema AS/400), ya que actualmente el análisis se concentra en seguridad, fiabilidad, eficiencia de desempeño y compatibilidad de forma más general.
+
+CALIFICACIÓN TOTAL: 4.9 / 5.0

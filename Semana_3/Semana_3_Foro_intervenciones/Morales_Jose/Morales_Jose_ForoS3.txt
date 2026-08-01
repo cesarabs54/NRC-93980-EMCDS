@@ -1,0 +1,37 @@
+INTERVENCIONES EN EL FORO - JOSE LUIS MORALES MENDEZ
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (18 de jul 21:19) ---
+INGENIERÍA DE SOFTWARE
+PARTICIPANTES:
+-   JOSE LUIS MORALES MÉNDEZ                  914680
+-   CRISTIAN DAVID GROSSO BELLO                       1076573
+PARTICIPACION PRINCIPAL
+Cordial saludo, profesor y compañeros. En respuesta al foro de la semana 3, presentamos de manera grupal nuestra participación principal y la conclusión sobre la importancia de las métricas de calidad en el mantenimiento y la evolución del software.
+1.  ¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+Las métricas de calidad desempeñan un papel fundamental en el mantenimiento y la evolución del software, ya que permiten evaluar de manera objetiva el estado del producto y verificar si continúa cumpliendo con los requisitos funcionales y no funcionales establecidos. A través de indicadores como la densidad de defectos, la cobertura de pruebas, la disponibilidad, el tiempo de respuesta y la mantenibilidad, los equipos de desarrollo pueden identificar oportunidades de mejora, priorizar correcciones y tomar decisiones basadas en evidencia. De esta manera, las métricas contribuyen a optimizar los procesos de desarrollo, reducir costos de mantenimiento y aumentar la confiabilidad del software.
+Sin embargo, para que estas métricas sean realmente útiles, es necesario que su definición y aplicación estén respaldadas por estándares reconocidos, como la ISO/IEC 25010, que establece características de calidad como la eficiencia del desempeño, la seguridad, la confiabilidad, la compatibilidad, la usabilidad, la mantenibilidad y la portabilidad. El uso de estos estándares permite evaluar el software con criterios uniformes y facilita la comparación de resultados entre diferentes versiones del producto.
+Modelo de calidad de los Productos de Software
+El estándar divide la calidad en dos enfoques principales y evalúa un total de ocho características clave, como lo son:
+-   Adecuación Funcional: Funciones que satisfacen necesidades explícitas e implícitas.
+-   Eficiencia de Desempeño: Rendimiento relativo a la cantidad de recursos utilizados.
+-   Compatibilidad: Capacidad de interactuar con otros productos o sistemas.
+-   Usabilidad: Facilidad de uso, aprendizaje y prevención de errores.
+-   Fiabilidad: Desempeño bajo condiciones normales durante un tiempo establecido.
+-   Seguridad: Protección de la información y los datos.
+-   Mantenibilidad: Capacidad para ser modificado, corregido o adaptado.
+-   Portabilidad: Facilidad con la que el software puede ser trasladado de un entorno a otro.
+Así mismo la correcta definición y aplicación de métricas de calidad incide directamente en la mantenibilidad y evolución del software porque estas métricas son el mecanismo que permite objetivar decisiones que de otra manera quedarían en una forma individual en el equipo de software y esto generaría que todo se basara en una sola fracción que es el modelo PSP en donde la propia persona se evalúa, pero en este caso es importante mantener la comunicación por medio de TSP.
+Cuando una métrica está bien definida o planteada, es decir mide correctamente lo que dice medir esta alineada como el modelo de referencia CMMI o ISO/IEC 29110, permite detectar tempranamente puntos de deterior estructural que este en el proyecto de software.
+El principal riesgo de implementar métricas sin un estándar, guía o referencia es que se cae fácilmente en lo que el documento de Muñoz, Peralta y Laporte (2019) muestra de cómo la brecha entre el estado del arte y el estado de la practica en organizaciones pequeñas únicamente se recopilan datos porque hay que medir algo, pero sin un marco no se sabe con exactitud si esas validaciones realmente son válidas y se pueden relacionar exactamente a lo que pide un cliente.  
+CONCLUSION
+En conclusión, la correcta definición y aplicación de métricas de calidad constituye un elemento fundamental para garantizar el mantenimiento y la evolución del software, ya que permite evaluar objetivamente el desempeño del producto, identificar oportunidades de mejora y tomar decisiones sustentadas en datos. Asimismo, el uso de estándares y modelos de referencia, como ISO/IEC 29110, ISO/IEC 25010 o CMMI, proporciona criterios uniformes que aseguran que las métricas sean confiables, comparables y alineadas con los objetivos del negocio y las necesidades del cliente. Por el contrario, la implementación de métricas sin un marco metodológico puede generar información poco precisa, dificultar la identificación de problemas reales y conducir a decisiones que afecten la calidad del software. Por ello, las métricas deben entenderse como herramientas estratégicas dentro del aseguramiento de la calidad y la mejora continua, más que como simples indicadores de medición.
+REFERENCIAS
+Muñoz, M., Peralta, M., & Laporte, C. Y. (2019). Análisis de las debilidades que presentan las entidades muy pequeñas al implementar el estándar ISO/IEC 29110: Una comparativa entre estado del arte y el estado de la práctica. Revista Ibérica De Sistemas e Tecnologias De Información.
+International Organization for Standardization. (2016). Ingeniería de sistemas y software — Perfiles de ciclo de vida para Entidades Muy Pequeñas (VSE) — Parte 1: Visión general (ISO/IEC TR 29110-1:2016, 2.ª ed.). https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29110:-1:ed-2:v1:es
+International Organization for Standardization. (2011). ISO/IEC 25010:2011 Systems and software engineering—Systems and software Quality Requirements and Evaluation (SQuaRE)—System and software quality models. ISO.
+-   Marcar como no leídoMarcar como no leído
+JG
+JUAN CAMILO CANASTEROS GONZALEZ
+19 de jul 17:28

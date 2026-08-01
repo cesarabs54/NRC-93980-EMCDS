@@ -1,0 +1,24 @@
+INTERVENCIONES EN EL FORO - ERWIN OBREGON MENESES
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (20 de jul 18:50) ---
+Hola Carlos estoy de acuerdo con tu aporte ya que la correcta definición y aplicación de métricas de calidad es un factor determinante para garantizar que el software pueda mantenerse y evolucionar de forma eficiente a lo largo de su ciclo de vida. Las métricas proporcionan información objetiva sobre el estado del producto y del proceso de desarrollo, lo que facilita la toma de decisiones basadas en evidencia en lugar de percepciones.
+En la etapa de mantenimiento, las métricas permiten identificar módulos con alta complejidad, elevada tasa de defectos o baja cobertura de pruebas, priorizando las acciones correctivas y reduciendo los tiempos de resolución de incidentes. Asimismo, durante la evolución del software, ayudan a evaluar el impacto de nuevas funcionalidades, controlar la deuda técnica y verificar que los cambios no degraden el rendimiento, la seguridad o la confiabilidad del sistema.
+Cuando estas métricas se implementan siguiendo estándares internacionales, como la familia ISO/IEC 25010 para calidad del producto software, ISO/IEC 25023 para medición de características de calidad o modelos como CMMI, TMMI, TPI y TMAP los resultados son consistentes, comparables y confiables. Esto favorece procesos de mejora continua, auditorías de calidad y una comunicación más efectiva entre los equipos de desarrollo, pruebas y gestión.
+Por el contrario, si las métricas se implementan de manera inadecuada o sin considerar estándares, pueden surgir diversos riesgos, entre ellos:
+-   Mediciones subjetivas o inconsistentes, que dificultan evaluar la calidad real del software.
+-   Decisiones erróneas, al basarse en indicadores poco representativos o mal interpretados.
+-   Incremento de la deuda técnica, debido a que los problemas críticos no son detectados oportunamente.
+-   Mayor costo de mantenimiento, ya que los defectos permanecen en producción y requieren más esfuerzo para corregirse.
+-   Disminución de la confiabilidad y satisfacción del usuario, al no controlar atributos como disponibilidad, rendimiento o seguridad.
+-   Dificultades en auditorías y certificaciones, al no existir criterios objetivos ni evidencia alineada con estándares reconocidos.
+-   Marcar como no leídoMarcar como no leído
+DEMIAN ALEJO PRIETO
+20 de jul 17:36| Last reply 20 de jul 18:15
+
+--- Publicación 2 (20 de jul 18:40) ---
+Buen dia compañeros
+Cordial saludo
+¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+La definición y aplicación adecuada de métricas de calidad, fundamentadas en estándares internacionales como la norma ISO/IEC 25010 y las prácticas de verificación y validación del software, constituyen un elemento esencial para asegurar la calidad tanto del proceso de desarrollo como del producto software. Estas métricas permiten medir objetivamente atributos como la mantenibilidad, confiabilidad, eficiencia y seguridad, además de detectar defectos, errores y fallas en etapas tempranas del ciclo de desarrollo. Su implementación favorece la toma de decisiones basada en evidencia, reduce el costo de corrección de errores, optimiza los tiempos de mantenimiento y facilita la evolución del software, incrementando la satisfacción del usuario y la calidad del producto final.

@@ -1,0 +1,20 @@
+INTERVENCIONES EN EL FORO - HENOB ESPEJO LAITON
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (20 de jul 15:29) ---
+¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+Correcta definición de métricas : Cuando se define el entorno de requerimientos para el desarrollo de un software, que debe satisfacer la necesidad del usuario final, se debe tener presente la definición correcta de las métricas  que mediaran el cumplimiento de entrega del software y que cumpla las 9 características de la calidad del software, la no definición correcta de métricas con lleva a tener falencias en la evaluación del software, siempre en la definición de métricas debe realizarse bajo un estándar lo cual da seguridad a todo el equipo de trabajo, "no sebe construir la rueda cuando ya existe" la 25010 es un buen estándar  para tener presente en la definición de métricas, la aplicación de métricas debe hacerse de manera precisa para que los cálculos me den evidencia de la confiabilidad y no confiabilidad de la calidad del software.
+La aplicación inadecuada de las métricas conlleva a:
+-   No ser asertivos en las pruebas de en cada uno de los requerimientos que debe cumplir el software.
+-   Se pierde el alcance de los objetivos.
+-   conlleva a incumplir en el tiempo definido para la entrega del producto.
+-   Nos desvían del horizonte y conlleva a tener errores del software cuando este en producción.
+"Stiwar Excelente su aporte las métricas de calidad no es un simple requisito documental"
+-   Colapsar hilo del foro de HENOB ESPEJO LAITON
+Ocultar 2 respuestas
+Ocultar 2 respuestas
+-   Marcar como no leídoMarcar como no leído
+KR
+KEVIN NICOLAS BUENAVENTURA RAMIREZ
+20 de jul 16:06

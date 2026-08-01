@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: CARLOS STEVEN TORRES ORTEGA
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. En la Intervención 1 el estudiante respondió la pregunta orientadora señalando que las métricas permiten detectar errores y facilitar el mantenimiento, y ancló su respuesta en la ISO/IEC 25010, mencionando las ocho características de calidad. En la Intervención 2 sí cumplió con el mínimo de dos réplicas (a Demian Alejo Prieto y a Carlos Archila Vargas), cerrando así las dos partes de la actividad.
+
+2. Orientación para mejorar.
+
+El punto débil está en la profundidad: la Intervención 1 nombra la ISO/IEC 25010 pero no la conecta con un riesgo o ejemplo concreto más allá de lo general, y no retoma ninguno de los artículos del curso. Las dos réplicas, por su parte, son principalmente de acuerdo ('estoy de acuerdo con...', 'considero...') sin aportar un argumento nuevo o contrastar una idea distinta a la de sus compañeros. Para fortalecer la entrega, conviene que cada réplica añada un dato, un riesgo o una fuente que el compañero no haya mencionado, en lugar de reformular su misma idea.
+
+CALIFICACIÓN TOTAL: 3.7 / 5.0

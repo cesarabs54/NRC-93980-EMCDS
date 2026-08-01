@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: CARLOS ALBERTO ARCHILA VARGAS
+
+1. Resultado de aprendizaje logrado.
+
+Sí. La Intervención 1 responde con claridad que las métricas alineadas a estándares permiten monitorear productividad y validar requisitos, y que su ausencia genera decisiones erróneas y mayores costos de mantenimiento. En la Intervención 2 el estudiante replicó a dos compañeros (Andrés Beltrán y Sergio Ramírez): la réplica a Andrés Beltrán en particular no se limita a coincidir, sino que plantea una idea propia y distinta (que no siempre conviene medir muchos indicadores desde el inicio, especialmente en empresas pequeñas), lo que sí genera debate real.
+
+2. Orientación para mejorar.
+
+La Intervención 1 es correcta pero general: no cita ninguno de los artículos del curso ni menciona una métrica específica más allá de 'productividad' y 'requisitos'. La réplica a Sergio Ramírez, a diferencia de la de Andrés Beltrán, es de acuerdo sin aportar un matiz nuevo. Para subir el nivel de la entrega, conviene anclar la respuesta inicial a un estándar o métrica concreta (por ejemplo ISO/IEC 25010 o densidad de defectos) y mantener en ambas réplicas el mismo nivel de contraargumento que logró con Andrés Beltrán.
+
+CALIFICACIÓN TOTAL: 3.9 / 5.0

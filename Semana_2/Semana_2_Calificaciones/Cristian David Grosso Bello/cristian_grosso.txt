@@ -1,0 +1,19 @@
+NOMBRE ESTUDIANTE: Cristian David Grosso Bello
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana de forma sobresaliente. El estudiante desarrolló el caso oficial MediCitas v3.2 tal como fue entregado en el archivo de apoyo, explicando con claridad el procedimiento seguido (cruce de las cuatro fuentes de evidencia: requisitos, bitácora, control de cambios y pruebas preliminares).
+
+Identificó 6 hallazgos de seguridad bien justificados y trazables a la evidencia (INC-101 a INC-106, RF-045, RF-060), construyó una matriz de verificación y validación completa (9 filas, diferenciando con precisión cuándo corresponde verificación y cuándo validación), una lista de control de 14 ítems con observación puntual, un plan de auditoría completo con firma, y aplicó ISO/IEC 25010 explicando por qué seguridad y fiabilidad son las características más críticas para este caso en particular.
+
+Cierra con 6 métricas de calidad con fórmula y criterio de aceptación, conclusiones priorizadas y referencias en formato APA que incluyen incluso el material de apoyo del curso.
+
+2. Orientación para mejorar:
+
+El reporte está prácticamente completo. Un detalle menor a corregir: en la matriz de verificación y validación quedó una fila de ejemplo ("Ej. | RF-014 — Autenticación 2FA...") que corresponde a la plantilla original y no fue reemplazada ni eliminada; conviene depurarla para que la tabla contenga únicamente el análisis propio.
+
+También se podría agregar una fila explícita para RF-014 (autenticación 2FA), que no quedó cubierta de forma independiente en la matriz final, ya que el resto de requisitos sí están representados.
+
+CALIFICACIÓN TOTAL: 4.7 / 5.0

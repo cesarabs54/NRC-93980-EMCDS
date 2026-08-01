@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: Andrés Stiwar Guisado Perea
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+Se logra de forma sobresaliente el resultado de aprendizaje de la semana. El estudiante trabajó el caso oficial MediCitas v3.2 y organizó el reporte en secciones numeradas que siguen exactamente los componentes pedidos: introducción, descripción del caso, hallazgos de seguridad (6, identificados como H1-H6, cada uno con justificación, requisito afectado y severidad), matriz de verificación y validación (10 filas, incluyendo funcionalidades sin RF explícito como telemedicina y SSO), lista de control de revisión (14 ítems), un plan de auditoría completo con las cuatro partes exigidas (objetivo, alcance, criterios normativos, equipo auditor, fecha de ejecución y evidencias a recolectar), aplicación de ISO/IEC 25010 desglosada en 7 características distintas con su justificación puntual, 6 métricas con fórmula y criterio de aceptación numérico, y conclusiones con recomendaciones priorizadas en 3 niveles. Cierra, además, con un listado de referencias en formato APA que incluye tanto los recursos básicos de la semana como el propio estándar ISO/IEC 25010 y la normativa colombiana citada.
+
+2. Orientación para mejorar:
+
+El reporte cubre todos los componentes exigidos; lo que puede pulirse es la profundidad de algunas justificaciones de auditoría (6.2 Hallazgos de auditoría), agregando para cada hallazgo una estimación cuantitativa del impacto (por ejemplo, número de pacientes potencialmente afectados por el IDOR o volumen de transacciones con PAN expuesto), de forma que las recomendaciones prioritarias queden respaldadas por una cifra y no solo por la severidad cualitativa. También sería útil añadir, junto a la portada, el título formal del trabajo tal como lo pide la actividad, ya que actualmente el encabezado agrupa el nombre del curso y del caso sin un título independiente para el documento.
+
+CALIFICACIÓN TOTAL: 4.9 / 5.0

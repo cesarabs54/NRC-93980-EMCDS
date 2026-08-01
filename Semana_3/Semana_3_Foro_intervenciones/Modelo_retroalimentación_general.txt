@@ -1,0 +1,62 @@
+
+Apreciables estudiantes: NRC-93980-Estándares y Métricas de Calidad en el Desarrollo de Software
+
+Comparto el resultado de aprendizaje de esta semana:
+
+- Identifica el aseguramiento de la calidad del software.
+- Identifica la caracterización de los defectos de software.
+
+
+La retroalimentación que recibirán refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+ 
+
+Estimados estudiantes,
+
+Gracias por su participación en el foro de esta semana. A continuación, comparto una retroalimentación general del tema, para reforzar los conceptos clave antes de seguir avanzando en el curso.
+
+
+1. Resultado de aprendizaje logrado.
+
+De formas sobrealiente el primer resultado: identificar el aseguramiento de la calidad del software. Se adoptó correctamente las métricas con estándares reconocidos (ISO/IEC 25010 y sus ocho características, ISO/IEC 29110 para VSE/EMP, CMMI, TMMI) y explicó con propiedad cómo esas métricas sostienen el mantenimiento correctivo, adaptativo, perfectivo y preventivo. Destaco los aportes de Diego Astudillo, Kevin Buenaventura y el trabajo grupal de José Luis Morales/Cristian Grosso, que no se limitaron a enumerar estándares sino que argumentaron la relación causal entre ausencia de estándar y riesgo concreto (falsa sensación de calidad, pérdida de comparabilidad, deuda técnica, resistencia organizacional). 
+
+También es valioso que varias réplicas Erwin Obregón, Demian Prieto y Carlos Archila, construyeron sobre el aporte del compañero en lugar de solo validarlo.
+
+El segundo resultado, caracterización de los defectos de software, se logró de manera parcial. La mayoría del curso trata "densidad de defectos" o "número de defectos" como una métrica más dentro de una lista, pero no profundiza en cómo se caracteriza un defecto: su origen, severidad, prioridad, fase de introducción o taxonomía. Ese es el foco específico de esta semana y quedó subordinado al tema de métricas y estándares en general (más propio de la semana anterior).
+
+El foro giró en torno a cómo la correcta definición de métricas de calidad, respaldada por estándares como ISO/IEC 25010 y 29110, permite tomar decisiones objetivas durante el mantenimiento y la evolución del software, mientras que su aplicación improvisada genera falsa sensación de calidad, deuda técnica y pérdida de comparabilidad entre proyectos. El grupo mostró manejo sólido de los estándares que sustentan el aseguramiento de la calidad, pero tendió a tratar la caracterización de defectos como una métrica más dentro de una lista general, en lugar de profundizar en su clasificación por tipo, severidad u origen, que es el foco propio de esta semana.
+
+La participación fue activa y con buen nivel de diálogo entre compañeros; el reto para las próximas semanas es sostener ese nivel de argumentación pero anclado más de cerca a cada tema específico, con ejemplos propios en lugar de solo parafrasear los artículos de la unidad.
+
+
+2. Orientación para mejorar los aprendizajes.
+
+RA1 — Identifica el aseguramiento de la calidad del software
+
+Diferenciar aseguramiento de la calidad (proceso, prevención) de control de calidad (detección posterior). La mayoría usa "calidad" como término general sin marcar esa distinción, que es la base conceptual del RA.
+
+Conectar cada estándar citado (ISO/IEC 25010, 29110, CMMI) con una actividad concreta de aseguramiento, no solo nombrarlo como respaldo teórico. 
+
+Ejemplo: qué actividad de aseguramiento exige la 29110 en la fase de implementación.
+
+Argumentar con relación causa-efecto explícita: qué práctica de aseguramiento ausente produce qué riesgo específico, en vez de catálogos genéricos de riesgos (costos, confianza, reprocesos) repetidos sin conexión al estándar discutido.
+
+RA2 — Identifica la caracterización de los defectos de software
+
+Trabajar la caracterización como tema propio: tipo de defecto (funcional, de interfaz, de datos, de rendimiento), severidad, prioridad y fase de introducción. Mencionar "densidad de defectos" no es caracterizar, es solo una métrica de conteo.
+
+Usar un modelo de clasificación explícito (ODC — Clasificación Ortogonal de Defectos, o IEEE 1044) para estructurar el análisis, en lugar de tratar los defectos como una categoría uniforme.
+
+Aplicar la caracterización a un caso propio o hipotético (un tipo de defecto, su severidad, su impacto) en vez de solo citar autores que hablan de defectos en general.
+
+
+3. Sugerencia de material bibliográfico complementario:
+
+Chillarege, R., Bhandari, I. S., Chaar, J. K., Halliday, M. J., Moebus, D. S., Ray, B. K., & Wong, M.-Y. (1992). Orthogonal defect classification—A concept for in-process measurements. IEEE Transactions on Software Engineering, 18(11), 943-956.
+
+IEEE Standards Association. (2009). IEEE Std 1044-2009: IEEE Standard Classification for Software Anomalies. IEEE.
+
+Pressman, R., & Maxim, B. (2019). Ingeniería del software: un enfoque práctico (9.ª ed.). McGraw-Hill. (Capítulos sobre métricas de calidad y gestión de defectos.)
+
+Sommerville, I. (2019). Software Engineering (10.ª ed.). Pearson. (Capítulos sobre verificación, validación y calidad del software.)
+
+International Organization for Standardization. (2011). ISO/IEC 25010:2011 — Systems and software Quality Requirements and Evaluation (SQuaRE). ISO.

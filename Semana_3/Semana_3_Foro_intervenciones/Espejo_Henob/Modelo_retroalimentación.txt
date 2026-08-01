@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: HENOB ESPEJO LAITON
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. En la Intervención 1 el estudiante planteó que la definición de métricas debe hacerse bajo un estándar (menciona la ISO/IEC 25010) y qué ocurre cuando la aplicación es inadecuada (pruebas poco asertivas, pérdida de alcance, incumplimiento de tiempos, errores en producción), respondiendo a la pregunta aunque de forma breve y con algunas imprecisiones de redacción.
+
+2. Orientación para mejorar.
+
+Falta la Intervención 2. Dentro de su propia publicación el estudiante incluyó una frase suelta dirigida a 'Stiwar' ('Excelente su aporte...'), pero no es una réplica argumentada publicada en el hilo del compañero, por lo que no cumple con las dos réplicas mínimas exigidas. Además, la Intervención 1 se beneficiaría de citar al menos uno de los artículos del curso para sustentar la afirmación sobre la ISO/IEC 25010, en lugar de mencionarla sin respaldo bibliográfico. Se recomienda publicar dos réplicas completas en los hilos de compañeros, retomando puntos específicos de sus argumentos.
+
+CALIFICACIÓN TOTAL: 2.0 / 5.0

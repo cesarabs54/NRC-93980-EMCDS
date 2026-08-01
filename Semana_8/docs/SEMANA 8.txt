@@ -1,0 +1,44 @@
+SEMANA 8
+
+Eres experto en ingenieria de software. Ayudame platear un contenido para: Semana 8. Herramientas de calidad de software. Esta semana usted ya será capaz de implementar el aseguramiento de la calidad en los procesos de construcción del software aplicando diferentes técnicas y herramientas apropiadas para su gestión, lo cual le permitirá verificar, validar, revisar los requerimientos encontrados y contrastarlos de acuerdo a lo que se ha desarrollado en el software, de esta forma poder realizar una medición adecuada del proceso utilizando las herramientas apropiadas que permiten tomar las acciones necesarias para su corrección, ampliación, adecuación dependiendo de los resultados. Resultados de aprendizaje: Implementa el aseguramiento de la calidad en la construcción de software, y Aplica las técnicas de gestión de la calidad del software. Puedes apoyarte en estos documentos adjuntos.. Ten en cuenta lo siguiente: Soy profesor de posgrado en la especialización en desarrollo del software. En el curso de Estándares y Métricas de Calidad en el Desarrollo de Software.. Por favor responde en este formato: Texto explicativo paso a paso.
+    
+
+
+Actúa como un experto en ingeniería de software y diseño instruccional para posgrado universitario.
+
+Soy profesor de la especialización en Desarrollo de Software y necesito que me ayudes a estructurar el contenido pedagógico profesional para la Semana 8 del curso 'Estándares y Métricas de Calidad en el Desarrollo de Software'.
+
+Tema de la semana: Herramientas de calidad de software.
+
+Competencias que el estudiante debe lograr al finalizar la semana:
+- Implementar el aseguramiento de la calidad (QA) en los procesos de construcción de software.
+- Aplicar técnicas y herramientas de gestión de calidad para verificar, validar y revisar requerimientos.
+- Medir el proceso de desarrollo y tomar acciones correctivas, ampliatorias o de adecuación según los resultados.
+
+Genera el contenido siguiendo esta estructura paso a paso:
+1. Introducción conceptual (qué es QA y su importancia en el ciclo de vida del software).
+2. Técnicas principales (revisiones, inspecciones, pruebas estáticas y dinámicas).
+3. Herramientas concretas (SonarQube, Selenium, JUnit, JIRA u otras relevantes), con descripción breve de cada una y su caso de uso.
+4. Proceso de verificación y validación de requerimientos.
+5. Métricas de calidad aplicables y cómo interpretarlas.
+6. Actividad práctica sugerida para el estudiante de posgrado.
+7. Recursos de lectura o referencia recomendados (normas ISO 25000, CMMI u otras).
+
+Requisitos de formato: redacción académica clara, cada paso con título, extensión media por sección de 150-200 palabras, lenguaje apropiado para estudiantes de posgrado con conocimientos previos en desarrollo de software.
+
+------------------------------------------------------------------------------------------------------------------
+
+Eres un experto en ingeniería de software y calidad con experiencia en docencia universitaria de posgrado.
+
+CONTEXTO: Soy profesor de la especialización en Desarrollo de Software, en el curso 'Estándares y Métricas de Calidad'. Necesito un ejemplo didáctico para enseñar testing en la Semana 8, cuyo objetivo es que los estudiantes implementen aseguramiento de calidad usando pruebas unitarias, de integración y de aceptación.
+
+TAREA: Crea un proyecto de ejemplo completo en Java que incluya:
+1. Una pequeña aplicación funcional de referencia (ej: servicio de gestión de usuarios con operaciones CRUD básicas).
+2. Suite de pruebas unitarias: al menos 3 casos de prueba con mocks, cubriendo lógica de negocio.
+3. Suite de pruebas de integración: al menos 2 casos que validen la interacción entre componentes (ej: servicio + repositorio).
+4. Suite de pruebas de aceptación: al menos 2 casos en formato Given-When-Then (BDD) que validen criterios de usuario.
+
+FORMATO DE SALIDA:
+- Código fuente completo con comentarios didácticos explicando cada decisión.
+- Para cada tipo de prueba: una sección con el propósito, las herramientas usadas y cómo ejecutarlas.
+- Al final, una tabla comparativa resumiendo las diferencias entre los tres tipos de prueba.

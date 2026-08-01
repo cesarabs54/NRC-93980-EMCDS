@@ -1,0 +1,21 @@
+INTERVENCIONES EN EL FORO - YESID AVILA SOTELO
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (16 de jul 20:33) ---
+Buenas noches compañeros.
+Influye de manera directa en la evolución, escalabilidad y mantenimiento del software, ya que se puede validar y verificar la calidad del código, la latencia, el rendimiento, confiabilidad y la satisfacción del usuario final por que las decisiones se toman sujetas a los datos que nos proporcionan dichas métricas. Nos permiten identificar la complejidad del proyecto, ayuda a priorizar la corrección de errores, permite tener una trazabilidad en el control de cambios, se pueden reducir los costos y tiempos del proyecto, evitan dificultades en auditorias.
+Por otra parte si se implementan de manera inadecuada sin contemplar el uso de estándares nos puede proporcionar indicadores poco confiables que conllevan a la mala toma de decisiones, incrementar los costos y los tiempos de entrega, reprobar las auditorias, puede llevar a no cumplir con los objetivos del proyecto, perder credibilidad y confianza de cara al cliente ante la posible deuda técnica y puede generar dificultades en la escalabilidad y evolución del proyecto.
+-   Colapsar hilo del foro de YESID AVILA SOTELO
+Ocultar 6 respuestas
+Ocultar 6 respuestas
+-   Marcar como no leídoMarcar como no leído
+BRAYAN RAFAEL ORTEGA PLATA
+17 de jul 11:37
+
+--- Publicación 2 (16 de jul 20:43) ---
+Buenas noches compañero.
+de acuerdo con tus argumentos, implementar métricas de calidad  sin estándares dificulta la detección temprana de errores, y desencadena gran numero de inconsistencias pasando por incrementos en presupuestos, en tiempos de entrega, Software difícil de testear  y por ende dificultad en encontrar errores y fallas en auditorias.
+-   Marcar como no leídoMarcar como no leído
+BRAYAN RAFAEL ORTEGA PLATA
+17 de jul 11:49

@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: JOSE LUIS LINEROS HURTADO
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 responde con claridad que definir y aplicar bien las métricas permite conocer el estado del proyecto y facilita el mantenimiento, y que hacerlo sin criterios claros genera una falsa sensación de que todo funciona bien. En la Intervención 2 el estudiante sí replicó, con un aporte de buen nivel a Edward Certuche: agrega un ejemplo real y relevante (actualizaciones constantes de Microsoft y videojuegos para corregir problemas no detectados en pruebas), lo que enriquece el debate con un caso concreto.
+
+2. Orientación para mejorar.
+
+Solo se registró esa réplica, y el mínimo exigido es dos. Como el ejemplo aportado en la réplica existente es de buena calidad, lo que falta es replicar con el mismo nivel de detalle a un segundo compañero para cerrar la Intervención 2. La Intervención 1, además, no cita ningún recurso del curso; incorporar una referencia reforzaría el argumento.
+
+CALIFICACIÓN TOTAL: 3.1 / 5.0

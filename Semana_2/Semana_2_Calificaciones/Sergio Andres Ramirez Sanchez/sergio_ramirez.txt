@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: Sergio Andrés Ramírez Sánchez
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento del resultado de aprendizaje de la semana. El estudiante presenta un desarrollo completo sobre su propio caso de estudio (SmartInventory v2.5, sistema de gestión de inventarios logísticos, opción que la actividad permite): 5 hallazgos de seguridad bien justificados y ligados a ISO/IEC 25010, una matriz de verificación y validación de 10 filas, un checklist de 15 ítems y un plan de auditoría con objetivo, alcance, criterios, equipo auditor y hallazgos resumidos.
+
+Sin embargo, existe una contradicción entre el checklist y la conclusión general: el checklist reporta explícitamente 3 ítems como "No cumple" (pruebas de seguridad, control de cambios y permisos de acceso) y los 5 hallazgos incluyen 3 de severidad alta, pero la conclusión afirma que el sistema "estaba de conformidad con el cumplimiento de los requisitos... evidenciando un adecuado nivel de calidad", lo cual no es coherente con sus propios hallazgos críticos.
+
+2. Orientación para mejorar:
+
+Lo más importante es ajustar la conclusión para que refleje fielmente la severidad de los propios hallazgos identificados: con 3 hallazgos de severidad alta (control de acceso roto por manipulación de ID, ausencia de límite de solicitudes en la API, y falta de política de expiración de contraseñas), la conclusión debería condicionar la liberación a producción y no calificarla como conforme.
+
+Adicionalmente, se recomienda calcular las 5 métricas de calidad con datos concretos del caso (por ejemplo, a partir de los resultados de las pruebas reportadas), en lugar de dejarlas únicamente como fórmula y meta sin un resultado numérico calculado.
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

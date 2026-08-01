@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: JAIRO ALONSO CRISTANCHO
+
+1. Resultado de aprendizaje logrado.
+
+Sí. En la Intervención 1 el estudiante conecta la correcta definición de métricas con la metodología PHVA y menciona riesgos de no medir la calidad (seguridad, disponibilidad, jurídicos, reputacionales, financieros). En la Intervención 2 replicó a dos compañeros (Yesid Ávila y Luis Ordóñez), cumpliendo el número mínimo de réplicas.
+
+2. Orientación para mejorar.
+
+Tanto la Intervención 1 como las dos réplicas son muy breves y quedan en el nivel de afirmación general: la lista de riesgos no se desarrolla (no se explica, por ejemplo, cómo una métrica mal definida deriva en un riesgo jurídico concreto), y las réplicas son de una sola línea ('completamente de acuerdo...'). No se citan los artículos del curso en ningún punto. Para complementar la actividad, el estudiante debe ampliar al menos uno de los riesgos mencionados con un ejemplo o una fuente, y en las réplicas explicar por qué está de acuerdo o en desacuerdo, no solo afirmarlo.
+
+CALIFICACIÓN TOTAL: 2.9 / 5.0

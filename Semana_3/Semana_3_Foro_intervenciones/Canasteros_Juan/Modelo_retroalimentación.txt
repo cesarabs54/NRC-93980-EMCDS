@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: JUAN CAMILO CANASTEROS GONZALEZ
+
+1. Resultado de aprendizaje logrado.
+
+Sí. La Intervención 1 plantea que la selección del estándar debe depender del contexto del proyecto (tamaño de la empresa, tipo de software) y conecta una implementación inadecuada de métricas con riesgos de seguridad, confidencialidad e integridad de la información, además de pérdidas económicas y reputacionales. En la Intervención 2 replicó a dos compañeros (al aporte conjunto de José Luis Morales y Cristian Grosso, y a Omar Cardona), en ambos casos añadiendo una idea propia y no solo coincidiendo.
+
+2. Orientación para mejorar.
+
+El desarrollo es bueno pero general: menciona la ISO/IEC 25010 sin citar un recurso del curso ni profundizar en una métrica concreta. Las réplicas añaden matices (la prioridad de entrega rápida sobre la mantenibilidad, la importancia de no depender solo de percepciones individuales) pero no llegan a cuestionar directamente el argumento del compañero. Se recomienda incorporar al menos una cita de los artículos del curso y, en una de las réplicas, plantear un punto de desacuerdo o una limitación.
+
+CALIFICACIÓN TOTAL: 3.9 / 5.0

@@ -1,0 +1,15 @@
+INTERVENCIONES EN EL FORO - KEVIN SANTIAGO DUARTE ORJUELA
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (20 de jul 18:18) ---
+Buenas Noches ,
+Profesor y Compañeros, dejo por acá mi respuesta :).
+Cuando abordamos las métricas de calidad en el desarrollo de software, la clave está en entender que su propósito principal es orientar la toma de decisiones con datos objetivos. Al medir factores como la complejidad o la densidad de fallas, dejamos de guiarnos por percepciones o urgencias del momento, lo que permite planear el mantenimiento y el escalamiento del sistema con anticipación. En entornos ágiles, esto resulta muy beneficioso: como señalan Hernández et al. (2020), cuando el equipo percibe que las métricas evalúan la entrega de valor real y no buscan ejercer un control punitivo, aumenta la transparencia y la colaboración. Además, sostener un proceso estructurado de verificación reduce significativamente los costos durante todo el ciclo de vida de la aplicación, un punto que también destacan Escobar-Sánchez y Fuertes-Díaz (2015).
+El verdadero problema surge cuando las métricas se implementan de forma inadecuada o sin guiarse por estándares normativos. Un riesgo directo es la distorsión del comportamiento del equipo: si se fijan indicadores inadecuados, como evaluar a un desarrollador según la cantidad de líneas redactadas o parches aplicados diariamente, la atención se desvía hacia el cumplimiento del número y no hacia el desempeño del sistema. Por otro lado, al descuidar aspectos clave como la mantenibilidad o la usabilidad, conceptos analizados por González-Sánchez et al. (2012), la arquitectura se degrada paulatinamente, haciendo que cualquier modificación futura requiera un esfuerzo económico y operativo excesivo.
+A esto se suma la falta de adaptabilidad en pequeñas organizaciones. Muñoz et al. (2019) analizan este fenómeno al estudiar la ISO/IEC 29110, donde muestran cómo intentar aplicar marcos normativos rígidos sin ajustarlos a la escala del equipo genera una sobrecarga administrativa que entorpece el trabajo diario en lugar de optimizarlo.
+En conclusión, medir es fundamental para la evolución del software, pero los indicadores deben diseñarse en función de las necesidades del proyecto. Apoyarse en estándares internacionales es clave, siempre que estos se adapten al contexto de trabajo y aporten un beneficio tangible.
+-   Marcar como no leídoMarcar como no leído
+EM
+ERWIN OBREGON MENESES
+20 de jul 18:40

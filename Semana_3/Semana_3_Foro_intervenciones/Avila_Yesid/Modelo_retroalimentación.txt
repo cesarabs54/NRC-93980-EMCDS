@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: YESID AVILA SOTELO
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 cubre varios aspectos (latencia, rendimiento, confiabilidad, trazabilidad, auditorías) y explica que la ausencia de estándares genera indicadores poco confiables y afecta la credibilidad frente al cliente. En la Intervención 2 el estudiante sí replicó, y la réplica a Luis Ordóñez es razonablemente desarrollada: agrega que sin estándares el software se vuelve difícil de testear y que eso complica las auditorías.
+
+2. Orientación para mejorar.
+
+Solo hay una réplica registrada, y la guía exige un mínimo de dos. Dado que la réplica existente tiene buen nivel, lo que falta es sumar una segunda respuesta argumentada en el hilo de otro compañero para completar la Intervención 2.
+
+CALIFICACIÓN TOTAL: 3.1 / 5.0

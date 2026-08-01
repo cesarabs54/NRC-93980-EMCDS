@@ -1,0 +1,31 @@
+RETROALIMENTACIÓN
+
+La evidencia presentada refleja el logro del resultado de aprendizaje propuesto para la semana, ya que el informe desarrollado no solo evidencia una comprensión adecuada de la importancia de los requisitos de en el desarrollo de software, sino que el caso de estudio o ejemplo que propone del requisito redactado de forma ambigua, en contraste con el requisito funcional correctamente definido, ya que tiene un nivel de especificación más claro, verificable y trazable. Igualmente las categorías del desarrollo de software y las características para definir los requisitos de software.
+
+El trabajo permite reconocer en la infografía, ciclo de vida del desarrollo de software, porque son importantes los requisitos de software,  características de los requisitos funcionales,  porque los requisitos cambian, ejemplo práctico de aplicación bancaria (transferencias), clasificación de requisitos, relación con la calidad del software y modelos y estándares que apoyan la gestión de requisitos y la calidad.
+
+
+Para fortalecer aún mas el aprendizaje, se recomienda profundizar con las preguntas orientadoras y la importancia de identificar la causa por la cual pueden cambiar los requisitos durante el desarrollo, ya que permiten favorecer una compresión mas clara de los concepto abordados durante la semana.    
+
+--------------------------------------------------------------------------------------------------------------
+
+La evidencia presentada refleja el logro del resultado de aprendizaje propuesto para la semana, ya que el informe desarrollado evidencia una comprensión adecuada comprensión para identificar algunas técnicas e instrumentos para aumentar la calidad de los procesos y productos de software.
+
+
+Permite identificar de forma analítica y reflexiva, cual es el objetivo para adoptar modelos estandarizados en las empresas de desarrollo de software, 
+
+Permite identificar de forma analítica y reflexiva, las causas por las cuales se pueden cambiar o ajustar los requisitos de software durante el desarrollo, 
+
+
+Permite identificar las categorías en las que se divide el desarrollo de software,
+
+El trabajo permite reconocer las características a tener en cuenta al definir los requisitos funcionales de software en el proceso de desarrollo.
+
+
+La intervención realizada a los compañeros es pertinente y enriquece par una comprensión mas clara de la importancia de las técnicas de gestión de calidad, en la identificación de los requisitos de calidad del software.
+
+----------------------------------------------------------------------------------------------------------------
+
+Para fortalecer aún más el aprendizaje, se recomienda profundizar en las preguntas orientadoras, relacionadas con la interpretación de cual es el objetivo para adoptar modelos estandarizados en las empresas de desarrollo de software, la identificación de las causas por las cuales pueden cambiar o ajustar los requisitos de software durante el desarrollo. Ya que puede favorecer una comprensión más clara y estructurada de los conceptos abordados durante la semana.
+
+

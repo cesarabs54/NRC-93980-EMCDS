@@ -1,0 +1,26 @@
+Aclaración necesaria: solo tengo la transcripción de audio, no el video. No puedo calificar aspectos visuales (logotipo, colores, sincronía audio-imagen) ni la duración exacta — esos puntos de "Forma" quedan pendientes de tu revisión directa.
+
+**1. Fortalezas**
+- Explican con solidez conceptual los seis pilares de ISO/IEC 9126 (funcionalidad, portabilidad, mantenibilidad, fiabilidad, usabilidad, eficiencia), enlazándolos entre sí de forma coherente.
+- Incluyen una demo real con SonarQube sobre un proyecto Java (Apache Maven), mostrando un hallazgo concreto —una variable declarada y no usada— y explicando su impacto en mantenibilidad y legibilidad.
+- Contrastan metodologías ágiles vs. tradicionales con Scrum como ejemplo aplicado, vinculando la elección metodológica a tres factores de valor: reducción de riesgos, comunicación y estándares.
+
+**2. Áreas de mejora**
+- *Población objetivo* (criterio de rúbrica, 0.70 pts): no aparece en ningún momento del guion. Mismo vacío que detecté en el Grupo 3 — parece un patrón del curso, no un error aislado de este grupo.
+- *Congruencia del contenido con el trabajo realizado*: el video es mayormente expositivo/conceptual; solo hay un hallazgo aplicado (la variable sin uso). Pruebas unitarias, de integración y aceptación —resultado de aprendizaje central del curso— se mencionan de pasada ("automatización de pruebas") sin desarrollo.
+- *Presentación*: la transcripción muestra alta densidad de muletillas ("eh", "pues", "sí") y transiciones abruptas entre temas, lo que sugiere poco ensayo del guion oral.
+
+**3. Recomendaciones**
+- Añadir un segmento explícito que defina la audiencia del video y ajuste el registro a ese público.
+- Ampliar la demo de SonarQube con métricas cuantificadas (cobertura %, deuda técnica en tiempo, cantidad de code smells) y conectarla con las pruebas ejecutadas.
+- Ensayar el guion con cronómetro para reducir muletillas antes de grabar la versión final.
+
+**4. Calificación sugerida (pendiente de revisar audio/video real)**
+
+| Criterio | Nivel sugerido | Puntos |
+|---|---|---|
+| Presentación y calidad técnica | Regular | 0.50/1 |
+| Organización y ortografía | Bueno | 0.60/0.80 |
+| Identificación de ideas centrales | Bueno | 1.50/1.70 |
+| Población objetivo | Insuficiente | 0.35/0.70 |
+| Congruencia del contenido | Regular | 0.50/0.80 |

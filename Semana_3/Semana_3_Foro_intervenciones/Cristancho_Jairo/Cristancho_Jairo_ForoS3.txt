@@ -1,0 +1,27 @@
+INTERVENCIONES EN EL FORO - JAIRO ALONSO CRISTANCHO
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (18 de jul 21:43) ---
+-   ¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+-   la correcta definición y aplicación de las métricas influyen de una manera considerable para el mantenimiento y evolución del software ya que al actuar baja una correcta metodología de PHVA, permite disminuir los errores, los tiempos de respuesta en los correctivos y adiciona permite generar una metodología mas proactiva en el soporte y evolución del software evitando procesos meramente reactivos que ocasionan mas problemas de los que solucionan, los riesgos asociados al no tener en cuenta las métricas de calidad son de seguridad, de disponibilidad de servicio, riesgos jurídicos, reputacionales y financieros.
+-   Colapsar hilo del foro de JAIRO ALONSO CRISTANCHO
+Ocultar 1 respuesta
+Ocultar 1 respuesta
+-   Marcar como no leídoMarcar como no leído
+OMAR AUGUSTO CARDONA SUAREZ
+19 de jul 15:45
+
+--- Publicación 2 (18 de jul 21:51) ---
+completamente de acuerdo ya que todo aquello que no se puede medir no puede ser controlado y por lo tanto genera una zona de incertidumbre, lo cual implica retrasos en tiempos y elevan los costos, todo proceso y sobre todo el software debe ser medido para poder tomar decisiones de manera clara y rapida y poder asegurar el exito del proyecto.
+-   Marcar como no leídoMarcar como no leído
+AF
+ANDRES STEVEN BELTRAN FORERO
+19 de jul 15:39
+
+--- Publicación 3 (18 de jul 21:48) ---
+con respecto a la implementacion de metricas para monitorizar el sistema, solo seria una parte del alcance de las metricas, ya que principalmente se definen las metricas un software con calidad donde la cantidad de defectos ean lo minimo posible asi como la respuesta a sus mantenimientos, y permitir que este software pueda funcionaar sobre diferentes condiciones de estres o carga de acuerdo al diseño previamente definido.
+-   Marcar como no leídoMarcar como no leído
+AF
+ANDRES STEVEN BELTRAN FORERO
+19 de jul 15:36

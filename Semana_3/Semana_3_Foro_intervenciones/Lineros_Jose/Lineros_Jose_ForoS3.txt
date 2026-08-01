@@ -1,0 +1,20 @@
+INTERVENCIONES EN EL FORO - JOSE LUIS LINEROS HURTADO
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (17 de jul 22:01) ---
+Cordial saludo
+Considero que definir y aplicar correctamente las métricas de calidad permite conocer de manera clara el estado de un proyecto de software facilitando la toma de decisiones para su mantenimiento y mejora. Cuando se aplican de manera adecuada es posible detectar problemas, identificando errores, malas practicas y realizando correcciones.
+Por otro lado si las metricas  se definen mal, se utilizan sin criterios claros, pueden generar resultados engañosos, dar una sensacion falsa de que todo funciona correctamente sin embargo cuando se requiera implementar una nueva funcionalidad puede que el minimo cambio afecte las otras funcionalidades, esto afecta la mejora continua y dificulta la evolucion del software.
+Las métricas son una herrramienta util cuando se utilizan de forma adecuada, se debe analizar los datos para identificar oportunidades de mejora y desarrollar y mantener software confiables, mantenibles y de calidad.
+-   Marcar como no leídoMarcar como no leído
+EC
+EDWARD SANTIAGO CERTUCHE CERTUCHE
+18 de jul 19:32
+
+--- Publicación 2 (18 de jul 14:57) ---
+Cordial saludo compañero
+De acuerdo con tu comentario. Lo que me llama la atención es que esto no solo ocurre en empresa pequeñas, sino tambien en grandes compañias como por ejemplo Microsoft o en video juegos, donde implementan constantes actualizaciones con el fin de corregir problemas de compatibilidad, rendimiento o estabilizacion que no fueron detectados durante los ciclos de pruebas. Esto indica que aunque se utilicen estandares y metodologias de calidad, definir y hacer seguimiento a las metricas, es fundamental para reducir reprocesos, costos y el impacto de errores
+-   Marcar como no leídoMarcar como no leído
+JOSE LUIS MORALES MENDEZ
+18 de jul 21:19

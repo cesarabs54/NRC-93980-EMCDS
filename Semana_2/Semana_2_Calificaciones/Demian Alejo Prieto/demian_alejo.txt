@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: Demián Alejo Prieto
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana. El estudiante desarrolla su propio caso de estudio (un "Sistema de Gestión Hospitalaria" genérico, opción que la actividad permite) y cubre todos los componentes formales pedidos: marco teórico completo (calidad, SQA, verificación/validación, auditoría, ISO/IEC 25010, métricas), 8 hallazgos de seguridad con impacto y recomendación, matriz de actividades de verificación y de validación, una lista de verificación de 20 ítems, un plan de auditoría con objetivo, alcance, criterios, evidencias, equipo y cronograma, la aplicación de las 8 características de ISO/IEC 25010, 6 métricas con fórmula y criterio de aceptación, y referencias en formato APA.
+
+El punto a mejorar es que, al ser un sistema propio genérico, no incluye bitácora de incidencias, control de cambios ni resultados de pruebas con evidencia trazable (fechas, IDs, cifras concretas de un incidente particular), por lo que los hallazgos y las respuestas del checklist se sienten más generales que basados en evidencia puntual.
+
+2. Orientación para mejorar:
+
+Lo principal es dar mayor trazabilidad al caso propio: construir cada hallazgo, cada fila de la matriz de V&V y cada métrica a partir de evidencias concretas y fechadas (a la manera de un registro real de incidentes, con identificadores como "INC-01, 14/05/2026"), en lugar de generalizar sobre vulnerabilidades típicas de sistemas hospitalarios.
+
+Esto permitirá que las métricas se calculen con datos numéricos específicos del caso, en vez de fijar criterios de aceptación sin partir de una medición concreta.
+
+CALIFICACIÓN TOTAL: 4.4 / 5.0

@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: SERGIO ANDRES RAMIREZ SANCHEZ
+
+1. Resultado de aprendizaje logrado.
+
+Sí. La Intervención 1 nombra métricas concretas (cobertura de pruebas, complejidad ciclomática, duplicidad de código, número de defectos) y menciona el respaldo de estándares ISO/IEC/IEEE para evitar que cada equipo mida la calidad con criterios distintos. En la Intervención 2 replicó a dos compañeros (Cristian Jota y Yesid Ávila), cumpliendo el mínimo exigido.
+
+2. Orientación para mejorar.
+
+La Intervención 1 nombra las métricas correctamente pero no profundiza en ninguna ni cita los artículos del curso. Las réplicas son de acuerdo, con una idea adicional breve en cada una (revisión continua de las métricas), pero no llegan a contrastar el argumento del compañero. Para fortalecer la entrega, conviene desarrollar una de las métricas mencionadas con un ejemplo aplicado y, en al menos una réplica, señalar un aspecto que el compañero no haya considerado en lugar de reforzar el mismo punto.
+
+CALIFICACIÓN TOTAL: 3.7 / 5.0

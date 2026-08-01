@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: Brayan Rafael Ortega Plata
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+De acuerdo con la evidencia, se observa un cumplimiento sobresaliente del resultado de aprendizaje de la semana. El estudiante planteó y resolvió su propio caso de estudio ("CoopFinanza App", una aplicación financiera cooperativa), opción que la actividad permite, y demuestra un manejo conceptual sólido de verificación, validación, revisiones, auditoría, ISO/IEC 25010 y métricas: construyó una matriz de V&V bien diferenciada y aplicada a los hallazgos propios del caso, una lista de control de revisión de 10 ítems, un plan de auditoría con objetivo, alcance, criterios y evidencias a recolectar, un desglose de ISO/IEC 25010 por característica ligado a cada hallazgo, y 5 métricas con fórmula y criterio de aceptación, todo con redacción clara y respaldo de autores (Pressman, ISO, Sommerville).
+
+2. Orientación para mejorar:
+
+El desarrollo está bien fundamentado y completo frente a los componentes exigidos. Para fortalecerlo aún más, se recomienda incluir en el plan de auditoría dos apartados que actualmente no aparecen como secciones independientes: el equipo auditor y la fecha de ejecución de la auditoría, que sí están presentes en el resto de la propuesta. También ayudaría cuantificar el impacto de al menos uno de los hallazgos críticos (por ejemplo, el riesgo financiero asociado al hardcoding de credenciales de la pasarela ACH), de forma que las recomendaciones prioritarias queden respaldadas por una cifra y no solo por la severidad cualitativa.
+
+CALIFICACIÓN TOTAL: 4.7 / 5.0

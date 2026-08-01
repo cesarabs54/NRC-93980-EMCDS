@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Carlos Alberto Archila Vargas
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento parcial del resultado de aprendizaje. El estudiante construyó un reporte muy bien estructurado y profesional sobre su propio caso de estudio ("RecaudaPlus", opción que la actividad permite): presentación, escenario, evidencias, hallazgos, matriz de verificación y validación, checklist, plan de auditoría completo con objetivo, alcance, criterios, equipo auditor y firma, y referencias APA que incluyen incluso el estándar IEEE 730-2014.
+
+Sin embargo, el reporte no incluye la sección de métricas de calidad con fórmula y criterio de aceptación que pide expresamente la actividad (mínimo 5); el documento menciona ISO/IEC 25010 como criterio de auditoría y lo asocia a cada hallazgo, pero no llega a definir métricas cuantificables independientes.
+
+2. Orientación para mejorar:
+
+Lo más importante para complementar este trabajo es agregar la sección de métricas de calidad, que actualmente no aparece en el documento: al menos 5 métricas con su fórmula o forma de medición y su criterio de aceptación numérico, tal como sí se hizo con la matriz de V&V y el plan de auditoría. Esto permitirá que la evaluación quede respaldada por indicadores objetivos y no solo por hallazgos cualitativos.
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

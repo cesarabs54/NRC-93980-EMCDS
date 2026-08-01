@@ -1,0 +1,23 @@
+NOMBRE ESTUDIANTE: Yesid Ávila Sotelo
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento del resultado de aprendizaje de la semana. El estudiante sí utiliza las evidencias del caso oficial MediCitas en la matriz de verificación y validación, en el checklist y en la tabla de hallazgos de auditoría (RF-014, RF-022, RF-031, RF-045, RF-052, RF-060, INC-101, INC-102, INC-105), pero la introducción y la sección inicial de "Hallazgos de seguridad" presentan el análisis como un "caso hipotético" con una lista genérica (gestión deficiente de contraseñas, registros sin anonimización, ausencia de pruebas de carga), sin citar las incidencias puntuales del escenario.
+
+Esto genera una inconsistencia entre el planteamiento inicial y el desarrollo posterior.
+
+Además, la tabla final de "hallazgos" reutiliza literalmente los enunciados del checklist (por ejemplo, "El código fuente cumple con los estándares de codificación...") en lugar de presentar hallazgos de seguridad redactados como tal, con su propia evidencia e impacto.
+
+
+2. Orientación para mejorar:
+
+Se recomienda unificar el enfoque desde el inicio del documento: presentar los hallazgos de seguridad directamente a partir del caso MediCitas (citando INC-101, INC-102, INC-105, etc.) en lugar de describirlos como una lista genérica de un "caso hipotético".
+
+También conviene separar con claridad la lista de control de revisiones técnicas (checklist Sí/No/N.A.) de la tabla de hallazgos de auditoría, ya que actualmente ambas comparten el mismo texto, lo que resta claridad al análisis.
+
+Finalmente, se sugiere calcular las métricas propuestas (densidad de defectos, cobertura de pruebas, MTTF, MTTR, satisfacción del usuario) con datos concretos derivados del caso, en lugar de dejarlas solo como fórmula y criterio de aceptación general.
+
+
+CALIFICACIÓN TOTAL: 3.5 / 5.0

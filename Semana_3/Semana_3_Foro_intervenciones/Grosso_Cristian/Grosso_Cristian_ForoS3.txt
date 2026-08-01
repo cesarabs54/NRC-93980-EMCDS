@@ -1,0 +1,14 @@
+INTERVENCIONES EN EL FORO - CRISTIAN DAVID GROSSO BELLO
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (18 de jul 11:47) ---
+Buenas noches, compañero. 
+Coincido con el punto central, pero agregaría un punto importante: el rechazo hacia las métricas no siempre es por falta de comprensión, sino porque estándares como ISO/IEC 29110 muchas veces se implementan sin adaptarlos a la capacidad real de una VSE, generando ese desajuste entre lo que exige la norma y lo que el equipo puede sostener.
+También sumaría un riesgo adicional: no solo la ausencia de métricas es problemática, sino tener métricas mal diseñadas, que llevan al equipo a optimizar el número (velocidad, story points) en lugar de la calidad real, dando una falsa sensación de control mientras la deuda técnica sigue creciendo.
+Y sobre la repetibilidad: el mecanismo concreto es que sin una línea base de métricas defectos por fase, cobertura, complejidad no hay cómo comparar proyectos ni aprender entre iteraciones, que es justo lo que impide construir procesos repetibles y sostenibles. 
+Atentamente: JOSE LUIS MORALES MÉNDEZ  y  CRISTIAN DAVID GROSSO BELLO   
+-   Marcar como no leídoMarcar como no leído
+SS
+SERGIO ANDRES RAMIREZ SANCHEZ
+17 de jul 17:27| Last reply 20 de jul 15:45

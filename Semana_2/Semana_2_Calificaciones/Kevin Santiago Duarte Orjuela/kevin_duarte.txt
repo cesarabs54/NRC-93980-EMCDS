@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: Kevin Santiago Duarte Orjuela
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento del resultado de aprendizaje de la semana. El estudiante presenta un análisis excelente sobre un caso propio muy concreto y verosímil (un Bot RPA para autorizaciones médicas oncológicas de Keralty, opción que la actividad permite), con una matriz de requisitos de 12 filas que distingue verificación de validación, un checklist de 10 ítems con evidencia puntual, un plan de auditoría completo, 5 hallazgos con severidad ligados a ISO/IEC 25010 y 5 métricas de calidad calculadas con datos concretos del caso (tiempo de ejecución proyectado, tasa de excepciones, precisión de filtrado). La conclusión es coherente y bien fundamentada, con un veredicto claro de no aptitud para producción.
+
+2. Orientación para mejorar:
+
+El trabajo está muy bien logrado en su conjunto y no presenta vacíos de fondo. Para pulirlo aún más, se recomienda una revisión ortográfica final del documento, ya que se observan algunos errores de digitación menores (por ejemplo, "Obsevaciones" y "pude" en lugar de "puede").
+
+CALIFICACIÓN TOTAL: 4.8 / 5.0

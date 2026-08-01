@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: ANDRES FELIPE QUINTERO CORRALES
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 incluye un ejemplo concreto y bien elegido: el riesgo de que el software de una entidad bancaria falle o no mida su rendimiento, con pérdidas económicas millonarias, y menciona además el riesgo legal de exponer la privacidad de los usuarios frente a la ley colombiana. En la Intervención 2 el estudiante publicó dos réplicas (a Yesid Ávila y a Omar Cardona), cumpliendo el número mínimo.
+
+2. Orientación para mejorar.
+
+Las dos réplicas son de una sola línea ('es muy acertado lo que dices...', 'estoy de acuerdo contigo también...') y no desarrollan ninguna idea propia ni retoman un dato específico del argumento del compañero, por lo que no generan debate real. La Intervención 1, aunque tiene un buen ejemplo, no lo conecta con ninguna métrica o estándar del curso. Se recomienda ampliar cada réplica con al menos dos o tres líneas que expliquen por qué se está de acuerdo o qué matiz agregaría, y anclar el ejemplo bancario a un estándar concreto como ISO/IEC 25010.
+
+CALIFICACIÓN TOTAL: 2.7 / 5.0

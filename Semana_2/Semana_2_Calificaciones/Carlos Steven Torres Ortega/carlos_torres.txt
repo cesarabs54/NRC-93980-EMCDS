@@ -1,0 +1,18 @@
+NOMBRE ESTUDIANTE: Carlos Steven Torres Ortega
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento del resultado de aprendizaje de la semana. El estudiante desarrolló el caso oficial MediCitas provisto en el archivo de apoyo, citando evidencias puntuales del escenario (INC-101 a INC-106, RF-022, RF-031, RF-045, RF-052, RF-060, CR-201/202): identificó 5 hallazgos de seguridad justificados con evidencia e impacto, construyó una matriz de verificación y validación de 9 filas con técnica, responsable, criterio de aceptación y evidencia esperada, diligenció un checklist de 10 ítems con observaciones, y desarrolló un plan de auditoría completo (objetivo, alcance, criterios, equipo auditor, fecha de ejecución, evidencias a recolectar, hallazgos con severidad y firma del auditor).
+
+Aplicó ISO/IEC 25010 a 5 características del sistema y definió 5 métricas de calidad. Un punto especialmente fuerte es que la conclusión general es coherente con los hallazgos: dado que el checklist reporta 8 de 10 ítems como "no cumple" y los 5 hallazgos son de severidad alta o media-alta, la conclusión señala correctamente que el sistema presenta riesgos que deben corregirse antes de la liberación.
+
+
+2. Orientación para mejorar:
+
+Lo principal para fortalecer este trabajo es precisar la sección de métricas de calidad: actualmente cada métrica tiene una "forma de medición" descriptiva, pero no una fórmula matemática explícita ni un valor calculado a partir de los datos del caso (por ejemplo, expresar la "tasa de cambios sin revisión" como un porcentaje calculado, no solo como una verificación cualitativa).
+
+También conviene revisar la ortografía en algunos términos técnicos (por ejemplo, "auditoria" sin tilde a lo largo del documento, "tarjeras" en lugar de "tarjetas", "Riegos" en lugar de "Riesgos") y, en el checklist, usar únicamente las opciones Sí/No/N.A. indicadas por la actividad en lugar de "pendiente" para el ítem 8, describiendo en observaciones que la auditoría de PCI-DSS aún no se ha ejecutado.
+
+CALIFICACIÓN TOTAL: 4.4 / 5.0

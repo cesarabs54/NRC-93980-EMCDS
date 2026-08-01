@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: JOSE LUIS MORALES MENDEZ
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente, y con una salvedad importante. El contenido publicado bajo el nombre de José Luis Morales Méndez es sólido: desarrolla con detalle el modelo de calidad de producto de software (ocho características de la ISO/IEC 25010), cita a Muñoz, Peralta y Laporte (2019) y referencia directamente la norma ISO/IEC 25010:2011. Sin embargo, la publicación está explícitamente firmada como trabajo conjunto ('PARTICIPANTES: José Luis Morales Méndez, Cristian David Grosso Bello'), por lo que no es evidencia de que el resultado de aprendizaje fue alcanzado de forma individual por este estudiante. Adicionalmente, no se encontró ninguna réplica publicada bajo su propio nombre.
+
+2. Orientación para mejorar.
+
+El foro es una actividad individual: la guía no contempla entregas grupales. Falta que el estudiante publique su propia Intervención 1 de forma independiente (aunque coincida en ideas con su compañero) y que sume, bajo su propio nombre, un mínimo de dos réplicas a otros compañeros. Actualmente no hay ninguna réplica atribuible únicamente a él.
+
+CALIFICACIÓN TOTAL: 2.4 / 5.0

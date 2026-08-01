@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: ANDRES STEVEN BELTRAN FORERO
+
+1. Resultado de aprendizaje logrado.
+
+Sí. La Intervención 1, aunque breve, nombra métricas concretas (densidad de defectos, cobertura de pruebas, tiempo de resolución de incidencias, complejidad del código) y explica que permiten decidir con evidencia en lugar de suposiciones. En la Intervención 2 el estudiante replicó a dos compañeros (Yesid Ávila y Luis Ordóñez), cumpliendo el mínimo exigido.
+
+2. Orientación para mejorar.
+
+La Intervención 1 es correcta pero corta: nombra las métricas sin desarrollar por qué cada una importa ni sin citar los recursos del curso. Las dos réplicas siguen el mismo patrón: son afirmaciones de acuerdo con una frase adicional, sin llegar a contrastar o ampliar sustancialmente el argumento del compañero. Para fortalecer la entrega, conviene elegir una de las métricas mencionadas y desarrollarla con un ejemplo, y en las réplicas plantear una pregunta o un matiz que realmente invite a que el compañero responda de nuevo.
+
+CALIFICACIÓN TOTAL: 3.3 / 5.0

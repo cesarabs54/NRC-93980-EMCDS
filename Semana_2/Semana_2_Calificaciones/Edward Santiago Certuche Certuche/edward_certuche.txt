@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: Edward Santiago Certuche Certuche
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana. El estudiante trabajó sobre el caso oficial MediCitas v3.2, identificó dos hallazgos adicionales bien justificados (fallos del batch nocturno sin alerta e incumplimiento de la prueba de carga), definió un plan de auditoría con objetivo, alcance, criterios, equipo auditor y resultado esperado, aplicó ISO/IEC 25010 a 5 características con su justificación, y definió 5 métricas de calidad con fórmula y criterio de aceptación, incluyendo un ejemplo numérico resuelto (disponibilidad = 78,57 %, por debajo del 99,5 % exigido).
+
+Sin embargo, el desarrollo es notablemente más corto que lo que pide la actividad en varios componentes: la matriz de verificación y validación solo cubre 3 funcionalidades (reportes gerenciales, disponibilidad y WhatsApp) y no los seis requisitos principales del caso (RF-014 a RF-060), y la lista de control de revisiones técnicas tiene solo 4 ítems, cuando la actividad pide un mínimo de 10.
+
+2. Orientación para mejorar:
+
+Lo principal que falta es ampliar la matriz de verificación y validación para cubrir los seis requisitos de la especificación (RF-014, RF-022, RF-031, RF-045, RF-052 y RF-060), no solo funcionalidades secundarias, y extender la lista de control de revisiones técnicas hasta al menos 10 ítems, retomando la plantilla del archivo de apoyo (trazabilidad de requisitos, control de cambios, autenticación, cifrado, auditoría, pruebas de seguridad y carga, cumplimiento normativo).
+
+También conviene identificar directamente 5 hallazgos de seguridad propios a partir de las evidencias (INC-101 a INC-107), en lugar de presentarlos como un complemento a hallazgos de una sesión anterior, de manera que el reporte quede completo por sí mismo.
+
+CALIFICACIÓN TOTAL: 3.4 / 5.0

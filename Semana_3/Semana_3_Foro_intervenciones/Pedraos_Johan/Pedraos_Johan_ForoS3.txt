@@ -1,0 +1,18 @@
+INTERVENCIONES EN EL FORO - JOHAN CAMILO PEDRAOS YOPASA
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (19 de jul 12:10) ---
+asi mismo creo que es importante destacar que aplicar los estandares o modelos de calidad en el desarrollo de software permite anticiparse a posibles fallos de implementacion, despliegues a produccion que afecten el funcionamiento del aplicativo y genere reproceso en el mantenimiento y soporte a los usuarios que la utilizan.
+-   Marcar como no leídoMarcar como no leído
+EC
+EDWARD SANTIAGO CERTUCHE CERTUCHE
+18 de jul 14:17
+
+--- Publicación 2 (19 de jul 12:06) ---
+¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+la definicion y aplicacion de metricas de calidad son de gran utilidad ya que nos permiten identificar diferentes aspectos del sistema que no cumplen con los estandares de calidad en fases tempranas, reduciento tiempos,reproceso, mantenimiento, soporte, costos y horas de trabajo en el desarrollo de un aplicativo.
+los problemas aparecen cuando no se define ni estructura un estandar o modelo de calidad del software e incluso cuando se implementa de forma inadecuada un modelo o estandar de calidad, asi mismo cuando no se dimensiona de forma adecuada el alcance del proyecto, lo cual puede llegar a generar un cuello de botella, y llevar incluso a problemas economicos y legales con otras compañias.
+-   Marcar como no leídoMarcar como no leído
+OMAR AUGUSTO CARDONA SUAREZ
+19 de jul 15:37

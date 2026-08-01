@@ -1,0 +1,13 @@
+INTERVENCIONES EN EL FORO - JAIR JUAN CARLOS MORENO CAÑON
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (19 de jul 20:48) ---
+La correcta definición y aplicación de métricas de calidad influye de manera decisiva en el mantenimiento y la evolución del software ya que gracias a esto se permite evaluar objetivamente el desempeño del sistema y detectar oportunidades de mejora antes de que los problemas afecten a los usuarios y con estas métricas proporcionan información sobre aspectos como la confiabilidad, mantenibilidad, eficiencia, usabilidad y productividad del equipo de desarrollo gracias esto se puede facilitar la toma de decisiones basada en evidencia y no únicamente en percepciones.
+Durante la fase de mantenimiento gracias a las métricas permiten identificar componentes con mayor cantidad de defectos, tiempos de respuesta inadecuados o código con alta complejidad por lo que ayuda a priorizar correcciones y optimizar los recursos disponibles. Asimismo, en la evolución del software, las métricas sirven para verificar que las nuevas funcionalidades mantengan los niveles de calidad esperados y no introduzcan errores que comprometan la estabilidad del sistema y esto favorece un proceso de mejora continua y reduce los costos asociados a fallos detectados en etapas posteriores.
+Sin embargo implementar métricas de manera inadecuada o sin considerar estándares reconocidos puede generar importantes riesgos con las métricas se seleccionan sin un propósito claro o se interpretan incorrectamente, pueden conducir a decisiones equivocadas que podrían afectar la productividad del equipo y ofrecer una percepción falsa sobre la calidad del producto. Del mismo modo la ausencia de estándares como ISO/IEC 29110 o modelos de buenas prácticas para el aseguramiento de la calidad dificulta la comparación de resultados que limita la estandarización de procesos y aumenta la probabilidad de que los defectos lleguen al usuario final.
+Por ello se considera que las métricas deben estar alineadas con los objetivos del proyecto y apoyarse en estándares internacionales y metodologías de aseguramiento de la calidad de esta forma no solo se mide el desempeño del software, sino que también se fortalece el proceso de desarrollo y que se facilita el mantenimiento y se garantiza una evolución más segura, eficiente y orientada a satisfacer las necesidades de los usuarios.
+-   Marcar como no leídoMarcar como no leído
+AF
+ANDRES STEVEN BELTRAN FORERO
+19 de jul 15:34| Last reply 20 de jul 15:58

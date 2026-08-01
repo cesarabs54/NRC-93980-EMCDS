@@ -1,0 +1,18 @@
+Introducción
+
+El estándar de la norma técnica IEEE 830 de 1998 define una clasificación en dos requisitos en dos grandes grupos: funcionales y no funcionales. También asumidos como requisitos de usuario y requisitos de software.
+
+¿Para que se va a usar el software?
+¿En que escenarios se va a utilizar?
+¿Quién va a usar el software?
+
+Etapas
+
+1.Educción:
+Son los usuarios finales, se debe hacer una entrevista donde explican de forma específica al equipo técnico las necesidades que tiene el software a desarrollar. Cuestionario por cada usuario y luego resumido.
+
+2.Elicitación:
+Después de la entrevista, se agrupa por funcionalidades y esto ayudará a construir una aproximación a la modularidad que utilizará a mayor escala en la etapa del diseño de software.
+
+3.Especificación:
+Identificar los requisitos funcionales.

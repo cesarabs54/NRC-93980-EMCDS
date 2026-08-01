@@ -1,0 +1,29 @@
+INTERVENCIONES EN EL FORO - ANDRES STEVEN BELTRAN FORERO
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (19 de jul 15:34) ---
+Profesor y compañeros!
+para mi las métricas de calidad son una herramienta fundamental para el mantenimiento y la evolución del software, debido a que permiten medir de forma objetiva el estado del producto y del proceso de desarrollo del mismo. Indicadores como la densidad de defectos, la cobertura de pruebas, el tiempo de resolución de incidencias o la complejidad del código ayudan a identificar áreas críticas y con esto podemos facilitar la toma de decisiones basadas en métricas evidenciadas de manera temprana, en lugar de suposiciones y asi planificar de forma adecuada su evolución esto de la mano de verificar si las mejoras implementadas realmente generan resultados positivos.
+-   Colapsar hilo del foro de ANDRES STEVEN BELTRAN FORERO
+Ocultar 1 respuesta
+Ocultar 1 respuesta
+-   Marcar como no leídoMarcar como no leído
+CARLOS ALBERTO ARCHILA VARGAS
+20 de jul 15:58
+
+--- Publicación 2 (19 de jul 15:39) ---
+Compañero Yesid!
+estoy de acuerdo con tu planteamiento acerca de la importancia de utilizar métricas para evaluar aspectos como el rendimiento, la confiabilidad y la evolución del software. y es importante decir que unas métricas mal definidas pueden afectar la toma de decisiones y aumentar los costos del proyecto o un generar un proyecto que no cumpla con lo requerido. Agregaría que la clasificación y el análisis de los defectos permiten identificar las causas más frecuentes de los problemas, lo que facilita implementar acciones preventivas y reducir la probabilidad de que las mismas fallas se repitan en futuras ocaciones.
+-   Marcar como no leídoMarcar como no leído
+AC
+ANDRES FELIPE QUINTERO CORRALES
+20 de jul 13:27
+
+--- Publicación 3 (19 de jul 15:36) ---
+Compañero Luis Enrique!
+comparto tu idea de que las métricas permiten monitorear el comportamiento del software y facilitan la trazabilidad durante todo su ciclo de vida. Me parece muy importante lo que mencionas sobre la toma de decisiones basada en evidencia como lo decía en mi comentario, ya que ese es uno de los principales objetivos de las métricas de calidad. Considero además que si estas métricas se apoyan en estándares reconocidos, no solo mejoran el mantenimiento del sistema, sino que también permiten identificar tendencias y prevenir la aparición de nuevos defectos o repetir los mismos, fortaleciendo la mejora continua del proceso de desarrollo.
+-   Marcar como no leídoMarcar como no leído
+AC
+ANDRES FELIPE QUINTERO CORRALES
+16 de jul 9:10| Last reply 19 de jul 12:17

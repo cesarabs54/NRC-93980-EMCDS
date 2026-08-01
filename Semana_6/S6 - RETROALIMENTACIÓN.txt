@@ -1,0 +1,22 @@
+RETROALIMENTACIÓN - SEMANA 6
+
+- Identifica los requisitos de calidad del software.
+- Establece las herramientas de calidad de software.
+
+¿Por qué es importante detectar defectos en etapas tempranas del proceso de desarrollo de software?
+¿El generar modelos para el proceso de desarrollo de software ha permitido generar software de calidad? ¿Por qué?
+
+(forma analítica y reflexiva)
+
+-----------------------------------------------------------------------------------
+
+La evidencia presentada refleja el logro de los resultados de aprendizaje propuestos para la semana, ya que el ensayo desarrollado permite identificar los principales defectos en el proceso desarrollo del software y la importancia de implementar técnicas de gestión de la calidad del software en los procesos de medición de la calidad del software.
+
+Permite identificar la importancia de detectar defectos en etapas tempranas del proceso de desarrollo de software.
+
+Permite identificar la importancia los requisitos y herramientas para generar software de calidad.
+
+-------------------------------------------------------------------------------------
+La conclusión evidencia una postura crítica y reflexiva, alineada con los objetivos del curso.
+
+Para fortalecer aún más el aprendizaje, se recomienda profundizar en las preguntas orientadoras, si los modelos de desarrollo de software han generado calidad, ya que puede favorecer una comprensión más clara y estructurada de los conceptos abordados durante la semana.

@@ -1,0 +1,26 @@
+INTERVENCIONES EN EL FORO - ANDRES FELIPE QUINTERO CORRALES
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (20 de jul 13:27) ---
+Es muy acertado lo que dices pues todo lo que hace parte de la creación o desarrollo debe de entrar a un proceso de actualización cada día salen nuevas tecnologías aun mas avanzadas y es allí donde las métricas y todo lo de calidad debe de influir en que estos progresos contengan esa calidad certificada para que disminuyan los riesgos 
+-   Marcar como no leídoMarcar como no leído
+LUIS ENRIQUE ORDOÑEZ PEÑA
+16 de jul 12:26| Last reply 19 de jul 15:36
+
+--- Publicación 2 (16 de jul 9:10) ---
+Buenos dias compañeros, profesor espero esten bien
+para mi, usar bien las metricas de calidad influye muchisimo en la construccion o diseño de un software robusto. esto nos permite verificar el diseño paso a paso, asi asegurando que todo funcione correctamente segun lo establecido y, al final del proyecto entregar un producto de con los mas altos estandares de calidad y funcionamiento.
+por otro lado , ignorar estos estandares puede pasar una factura muy alto en cuanto a riesgos hablamos, y es que los riesgos de un mal desarrollo y funcionamiento son enormnes, ejemplo, si el software de una entidad bancaria falla o no s emide su rendimiento y funcionamiento, puede acarrear perdidas economicas  millonarias. y esto no solo pasa en entidades de finanzas. en cualquier sector, la falta de control puede exponer la privacidad de los usuario violando asi las leyes colombianas tambien puede abrir ña puerta a delitos informaticos graves. 
+-   Expandir hilo del foro de ANDRES FELIPE QUINTERO CORRALES
+5 respuestas, 5 no leídas
+5 respuestas, 5 no leídas
+-   Marcar como no leídoMarcar como no leído
+CESAR ALFONSO BOLADO SILVA
+15 de jul 15:31| Última edición 15 de jul 15:32| Last reply 20 de jul 19:32
+
+--- Publicación 3 (20 de jul 19:32) ---
+Estoy de acuerdo contigo también por disminuir costos pueden omitir esos procedimientos 
+-   Marcar como no leídoMarcar como no leído
+OMAR AUGUSTO CARDONA SUAREZ
+19 de jul 15:33

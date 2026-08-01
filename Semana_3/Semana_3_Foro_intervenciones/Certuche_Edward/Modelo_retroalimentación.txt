@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: EDWARD SANTIAGO CERTUCHE CERTUCHE
+
+1. Resultado de aprendizaje logrado.
+
+Sí. La Intervención 1 explica cómo la correcta aplicación de métricas reduce reprocesos y mitiga la deuda técnica, y conecta el tema con la evaluación objetiva de equipos ágiles. En la Intervención 2 replicó a dos compañeros (Sergio Ramírez y José Luis Lineros): a Sergio Ramírez le aportó un ejemplo concreto y propio (uso de métricas para priorizar tareas dentro de los sprints), lo que sí constituye un aporte nuevo al debate.
+
+2. Orientación para mejorar.
+
+La Intervención 1 no cita ningún recurso del curso, apoyándose solo en razonamiento propio. La réplica a José Luis Lineros, a diferencia de la de Sergio Ramírez, se queda en el nivel de acuerdo sin sumar un ejemplo o dato nuevo. Para subir el nivel de la entrega, conviene respaldar la respuesta inicial con al menos una referencia y mantener en ambas réplicas el mismo aporte concreto que logró con el ejemplo de los sprints.
+
+CALIFICACIÓN TOTAL: 3.9 / 5.0

@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: JOHAN CAMILO PEDRAOS YOPASA
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 responde de forma breve pero pertinente: señala que la definición y aplicación de métricas permite identificar fallas en fases tempranas, reduciendo reprocesos, mantenimiento, soporte, costos y horas de trabajo, y que su ausencia puede generar cuellos de botella y problemas legales con otras compañías. En la Intervención 2 el estudiante sí replicó, complementando el punto de Edward Certuche sobre anticipar fallos de implementación y despliegue.
+
+2. Orientación para mejorar.
+
+Solo hay una réplica y la guía exige un mínimo de dos. Tanto la Intervención 1 como la réplica son bastante cortas y generales; ninguna de las dos cita los recursos del curso ni nombra una métrica específica (por ejemplo, cobertura de pruebas o densidad de defectos). Para completar y fortalecer la actividad, el estudiante debe sumar una segunda réplica y desarrollar con más detalle al menos uno de los riesgos que menciona.
+
+CALIFICACIÓN TOTAL: 2.7 / 5.0

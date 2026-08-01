@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: ERWIN OBREGON MENESES
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 (publicada al final del hilo del profesor) es sólida: conecta la definición de métricas con la ISO/IEC 25010, con la medición de características de calidad (ISO/IEC 25023) y con modelos de madurez (CMMI, TMMI, TPI, TMAP), y explica su efecto tanto en mantenimiento como en evolución del software. En la Intervención 2 el estudiante sí replicó, y lo hizo con contenido de valor: a la participación de Carlos Torres añadió referencias concretas a modelos de madurez de pruebas que el compañero no había mencionado.
+
+2. Orientación para mejorar.
+
+Solo se registró una réplica, y la guía pide un mínimo de dos. Dado que la única réplica presentada es de buena calidad, lo que falta no es capacidad argumentativa sino cerrar el número de intervenciones exigido: el estudiante debe responder a un segundo compañero con el mismo nivel de detalle que ya demostró, para que la Intervención 2 quede completa.
+
+CALIFICACIÓN TOTAL: 3.1 / 5.0

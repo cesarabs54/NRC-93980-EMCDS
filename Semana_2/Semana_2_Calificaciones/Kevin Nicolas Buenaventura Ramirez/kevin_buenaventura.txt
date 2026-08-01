@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: Kevin Nicolás Buenaventura Ramírez
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento sobresaliente del resultado de aprendizaje de la semana. El estudiante desarrolló el caso oficial MediCitas v3.2 con un nivel de organización y rigor excelente: tabla de contenido, metodología explícita en 6 pasos, 6 hallazgos de seguridad ampliamente justificados y con evidencia trazable, matriz de verificación y validación completa que diferencia con precisión verificación de validación para cada requisito y funcionalidad, checklist de 14 ítems totalmente diligenciado, plan de auditoría completo con 5 hallazgos, severidad y recomendación, aplicación de ISO/IEC 25010 relacionando cada hallazgo con su característica y subcaracterística específica, y 6 métricas de calidad con fórmula, cálculo con los datos del caso y criterio de aceptación. Cierra con recomendaciones priorizadas en tres niveles y, como valor añadido, una sección que conecta los hallazgos del caso con su experiencia profesional real en soporte de TI, lo que demuestra comprensión aplicada del tema y no solo teórica.
+
+2. Orientación para mejorar:
+
+El desarrollo está completo y no presenta vacíos frente a los criterios de la actividad. Como único aspecto a pulir, la sección final sobre la aplicación al contexto profesional, valiosa para mantener el foco proporcional entre el análisis técnico del caso (secciones 1 a 9) y esta reflexión personal, que ya cumple su propósito de forma clara desde el primer párrafo.
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

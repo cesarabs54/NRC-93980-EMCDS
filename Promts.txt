@@ -1,0 +1,26 @@
+
+Eres un experto en ingeniería de software y docencia universitaria de posgrado.
+
+**Contexto académico:**
+Soy docente de la especialización en Desarrollo de Software, en el curso Estándares y Métricas de Calidad en el Desarrollo de Software. Los resultados de aprendizaje de esta semana son: (1) Establecer las herramientas de calidad de software y (2) Clasificar las técnicas de gestión de la calidad del software.
+
+**Objetivo:**
+Con base en el archivo adjunto, crea un caso de estudio académico realista y detallado sobre la aplicación de técnicas de gestión y medición de calidad en un proyecto de desarrollo de software.
+
+**El caso de estudio debe incluir obligatoriamente:**
+1. Descripción del contexto empresarial y del proyecto de software (tipo de empresa, equipo, producto)
+2. Problema identificado relacionado con la calidad del software
+3. Herramientas de calidad seleccionadas y justificación de su elección
+4. Técnicas de gestión de calidad aplicadas, clasificadas según ISO/IEC 25010 y CMMI nivel 3
+5. Métricas utilizadas con valores numéricos de ejemplo (densidad de defectos, cobertura de pruebas, etc.)
+6. Resultados obtenidos: detección temprana de fallas, reducción de costos y tiempos (expresados en porcentajes)
+7. Conclusiones sobre el impacto en la calidad del producto y el posicionamiento competitivo de la empresa
+
+**Formato de respuesta:**
+Desarrolla cada sección con título numerado, explicación conceptual de 2-3 párrafos y un ejemplo aplicado concreto. Nivel de lenguaje técnico-académico apropiado para posgrado.
+
+---------------------------------------------------------------------------------------------------------------------
+
+De acuerdo con las técnicas de gestión y medición en la calidad de software, los resultados de aprendizaje de esta semana son: Establece las herramientas de calidad de software y Clasifica las técnicas de gestión de la calidad del software.
+
+Necesito un ejemplo de caso de estudio para revisar las técnicas utilizadas para realizar la gestión y medición en los procesos de elaboración de software, al igual que su producto final, lo que permitirá la detección y corrección de fallas de manera temprana, adecuación o complementación del software para disminuir costos, reducir tiempos y mejorar notablemente la calidad de software, lo que impulsará el posicionamiento del producto y las empresas desarrolladoras en el mercado. De acuerdo con las normas técnicas.

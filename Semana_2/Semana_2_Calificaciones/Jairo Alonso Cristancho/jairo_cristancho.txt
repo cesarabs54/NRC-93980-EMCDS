@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Jairo Alonso Cristancho
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana, de forma sobresaliente. El estudiante entrega un reporte extremadamente detallado y técnicamente sólido sobre su propio caso de estudio (sistema de Cargue de Documentos del FNA, opción que la actividad permite): 6 hallazgos de seguridad justificados con evidencia, una matriz de verificación y validación completa, un checklist de 12 ítems (supera el mínimo de 10), un plan de auditoría con firma, aplicación de ISO/IEC 25010 en 5 características y 6 métricas con fórmula, valor de referencia, criterio de aceptación y fuente.
+
+La redacción es clara, la infraestructura descrita es coherente y verosímil, y las referencias están en formato APA.
+
+2. Orientación para mejorar:
+
+Como oportunidad de mejora menor, se podría profundizar un poco más en la justificación del impacto de negocio de cada hallazgo, para reforzar aún más la priorización de las recomendaciones finales.
+
+CALIFICACIÓN TOTAL: 4.9 / 5.0

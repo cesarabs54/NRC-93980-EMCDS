@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: DEMIAN ALEJO PRIETO
+
+1. Resultado de aprendizaje logrado.
+
+Sí, de forma completa y sobresaliente. En la Intervención 1 el estudiante desarrolló su respuesta en varias partes (introducción, efecto en mantenimiento, riesgos de una implementación inadecuada, y conclusión), citando de forma correcta y con año a Muñoz, Peralta y Laporte (2019), Escobar-Sánchez y Fuertes-Díaz (2015) y Hernández et al. (2020), integrando cada referencia a un argumento propio y no como simple mención. En la Intervención 2 replicó a dos compañeros (Kevin Buenaventura y Henob Espejo) con comentarios que no se limitan a coincidir, sino que añaden métricas concretas no mencionadas por ellos (complejidad ciclomática, porcentaje de reutilización, cobertura de pruebas automatizadas).
+
+2. Orientación para mejorar.
+
+El contenido cumple sobradamente el resultado de aprendizaje. El único ajuste de forma es que la Intervención 1 quedó fragmentada en cuatro publicaciones separadas dentro de su propio hilo en lugar de un solo aporte estructurado; no afecta la calificación, pero para futuros foros es más claro para los compañeros y el profesor leer la respuesta completa en una sola publicación.
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

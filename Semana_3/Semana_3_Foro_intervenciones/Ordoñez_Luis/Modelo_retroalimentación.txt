@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: LUIS ENRIQUE ORDOÑEZ PEÑA
+
+1. Resultado de aprendizaje logrado.
+
+Parcialmente. La Intervención 1 es clara: plantea que una implementación temprana de métricas permite el diagnóstico, la trazabilidad y el control de riesgos, y que sin estándares (ISO, IEEE o modelos ajustados al negocio) se dificulta construir indicadores limpios y confiables. En la Intervención 2 el estudiante sí replicó, con una réplica de buen nivel a Brayan Ortega Plata sobre la detección temprana de errores y vulnerabilidades.
+
+2. Orientación para mejorar.
+
+Solo se registró una réplica y la guía exige un mínimo de dos. Como el contenido de la réplica existente es adecuado, lo que falta es completar el número: el estudiante debe responder a un segundo compañero con el mismo nivel de argumentación que ya demostró para cerrar la Intervención 2.
+
+CALIFICACIÓN TOTAL: 3.1 / 5.0

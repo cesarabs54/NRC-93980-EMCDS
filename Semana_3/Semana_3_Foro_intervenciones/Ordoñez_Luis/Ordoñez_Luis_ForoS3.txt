@@ -1,0 +1,23 @@
+INTERVENCIONES EN EL FORO - LUIS ENRIQUE ORDOÑEZ PEÑA
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (17 de jul 15:39) ---
+Buen día compañero,
+Efectivamente, uno de las debilidades críticas de un sistema es la detección tardía de errores, vulnerabilidades o comportamientos no esperados del sistema, situaciones que se pueden evitar o tratar de controlar por medio de una estructuración temprana de métricas acorde a un modelo de calidad coherente con la solución a implementar. Conocer estos modelos estandarizados nos da un punto de partida y una visión bastante importante para poder entregar software de calidad a nuestros potenciales clientes.
+-   Marcar como no leídoMarcar como no leído
+SS
+SERGIO ANDRES RAMIREZ SANCHEZ
+17 de jul 17:33
+
+--- Publicación 2 (16 de jul 12:26) ---
+Buen día a todos,
+Pienso que una correcta implementación de métricas permite monitorizar un sistema de manera precisa, es un insumo primordial para la mantenibilidad de un software; actividades como el diagnóstico del servicio, estado actual, trazabilidad, comportamiento en el tiempo, entre otros, da la posibilidad de mantener el modelo de negocio habilitado de cara al cambio, lo que deriva en la detección temprana de problemas y control de riesgos inherentes a la propia existencia del sistema.
+Por otro lado, un planteamiento de métricas sin estándares claros puede dificultar la visualización del comportamiento del software, obstaculiza una construcción limpia de indicadores y da paso a la toma de decisiones bajo un marco basado en la falta de evidencia fundamentada, por ende, el levantamiento de métricas soportado en estándares aplicables al contexto como ISO, IEEE o modelos ajustados para los distintos niveles de negocio, posibilita definir, planear y aplicar métricas útiles para la organización.
+-   Colapsar hilo del foro de LUIS ENRIQUE ORDOÑEZ PEÑA
+Ocultar 4 respuestas
+Ocultar 4 respuestas
+-   Marcar como no leídoMarcar como no leído
+YS
+YESID AVILA SOTELO
+16 de jul 20:43

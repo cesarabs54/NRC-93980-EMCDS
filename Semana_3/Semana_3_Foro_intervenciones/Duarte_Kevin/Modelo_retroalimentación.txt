@@ -1,0 +1,11 @@
+NOMBRE ESTUDIANTE: KEVIN SANTIAGO DUARTE ORJUELA
+
+1. Resultado de aprendizaje logrado.
+
+Sí, en la Intervención 1. El estudiante entregó una respuesta madura y bien escrita: explica que medir factores como la complejidad o la densidad de fallas permite planear el mantenimiento con anticipación en lugar de reaccionar a percepciones, cita a Hernández et al. (2020) sobre la transparencia que generan las métricas en equipos ágiles, a Escobar-Sánchez y Fuertes-Díaz (2015) sobre la reducción de costos mediante verificación estructurada, a González-Sánchez et al. (2012) sobre el riesgo de descuidar la mantenibilidad y usabilidad, y a Muñoz et al. (2019) sobre la sobrecarga administrativa de aplicar estándares rígidos sin ajustarlos a la escala del equipo. Es una de las respuestas mejor argumentadas y referenciadas del foro.
+
+2. Orientación para mejorar.
+
+Lo que falta es la Intervención 2: no se encontró ninguna réplica del estudiante en los hilos de sus compañeros, pese a que la guía pide un mínimo de dos. Dado el nivel de argumentación que ya demuestra en su respuesta inicial, completar dos réplicas con el mismo estándar de citación elevaría considerablemente la calificación, ya que actualmente el criterio de 'capacidad de análisis en el debate con sus compañeros' queda sin evidencia.
+
+CALIFICACIÓN TOTAL: 2.8 / 5.0

@@ -1,0 +1,34 @@
+Curso: Estándares y Métricas de Calidad en el Desarrollo de Software
+
+Apreciables estudiantes GRUPO 3: Cristian Felipe Espitia García, Cristian Restrepo Zuluaga, Jaider Javith Vallejo Álvarez, Jesús David Estrada Prada, Jhon Edison Monsalve García.
+
+Comparto el resultado de aprendizaje de esta semana:
+
+Implementa el aseguramiento de la calidad en la construcción de software.
+Aplica las técnicas de gestión de la calidad del software.
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+
+
+Resultados de aprendizaje logrados:
+
+La evidencia presentada refleja el logro de los resultados de aprendizaje propuestos para la semana, ya que la cobertura técnica es sólida, aplican pruebas unitarias, de integración y de aceptación, más análisis SonarQube en tres plataformas (.NET, Java, Python), permitiendo comparación real entre tecnologías. La estructura del documento es formal y completa (portada, TOC, objetivos generales/específicos, conclusiones) y referencias pertinentes a normas ISO/IEC 25010, 12207 y 29119. Objetivos específicos bien desglosados y trazables al objetivo general.
+
+Orientación para mejorar los aprendizajes:
+
+Para fortalecer aún más el aprendizaje, se recomienda profundizar con las preguntas orientadoras, la importancia de una buena selección de técnica y herramientas permitirá el aseguramiento de la calidad del software. De pronto el guion solicitado que permita favorecer una comprensión más clara y estructurada de los conceptos abordados durante la semana.
+
+Sugerencia de material complementario:
+
+Peláez Valencia, L., Toro Lazo, A., Arias Vargas, J., & Rodríguez Franco, D. (2019). Ingeniería de Software: el aseguramiento de la calidad de los requisitos en la industria del software en el eje cafetero colombiano. INGE CUC, 15(2), 110-122. https://doi.org/10.17981/ingecuc.15.2.2019.10.
+Pino Correa, F. J., Pino Anacona, A. F., Caicedo Rendón, A. M., & Piattini Velthuis, M. (2018). ISO/IEC 29110 para procesos software en las pequeñas empresas. AENOR Ediciones.
+ISO 29110 en Colombia: de la teoría a la práctica. (s.f.). Redalyc. https://www.redalyc.org/journal/1053/105367027007/html/.
+Medina Barrera, M. G., & Hernández Mora, J. J. (2024). Metodología híbrida para la estimación y tratamiento de la deuda técnica de defectos en el desarrollo ágil de software. Programación Matemática y Software, 16(3), 53-63.
+Vera, A. (2019). Estudio funcional de la plataforma SonarQube para la evaluación de código fuente con respecto a la calidad del producto software. [Trabajo de grado, Universidad Técnica del Norte].
+
+Si tienes alguna duda o comentario con gusto lo revisamos.
+
+Atentamente
+Cesar Alfonso Bolado Silva
+Profesor UNIMINUTO

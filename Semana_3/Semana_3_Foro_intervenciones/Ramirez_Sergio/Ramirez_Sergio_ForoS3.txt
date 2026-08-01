@@ -1,0 +1,28 @@
+INTERVENCIONES EN EL FORO - SERGIO ANDRES RAMIREZ SANCHEZ
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (17 de jul 17:27) ---
+Buen día para todos.
+Definir las métricas de calidad desde el comienzo del proyecto ayudará a anticipar los problemas antes de que lleguen a producción y a medir si los cambios aportan realmente alguna mejora al sistema. Métricas como cobertura de pruebas, complejidad ciclomática, duplicidad de código o número de defectos sirven para tomar decisiones de forma basada en datos y facilitan el mantenimiento cuando evoluciona el software. Además, apoyarse en estándares propuestos por ISO/IEC/IEEE evita que cada equipo valore la calidad bajo diferentes criterios. Si las métricas se ponen en marcha sin metodología o sin apoyarse en estándares es fácil acabar optimizando indicadores que no representan la calidad real del producto, lo que acaba representando una mayor deuda técnica, dificulta el mantenimiento y surgen fallos que terminan preocupando a los usuarios
+-   Colapsar hilo del foro de SERGIO ANDRES RAMIREZ SANCHEZ
+Ocultar 2 respuestas
+Ocultar 2 respuestas
+-   Marcar como no leídoMarcar como no leído
+CB
+CRISTIAN ANDRES JOTA BOSSA
+18 de jul 1:27
+
+--- Publicación 2 (17 de jul 17:33) ---
+Coincido con tu análisis, especialmente cuando subrayas que las métricas permiten evaluar de forma objetiva la calidad del software y el mantenimiento y evolución de este software. También me parece muy correcto que indiquemos el uso de estándares como el ISO/IEC 29110; nos permiten tener una guía para aplicar las métricas de una forma homogénea. Como aportación, creo que las métricas deberían ser revisadas continuamente durante el ciclo de vida del proyecto, en la medida en que, variando los requisitos, también pueden variar los indicadores que realmente aportan valor para la toma de decisiones.
+-   Marcar como no leídoMarcar como no leído
+EC
+EDWARD SANTIAGO CERTUCHE CERTUCHE
+18 de jul 19:46
+
+--- Publicación 3 (17 de jul 17:31) ---
+Comparto tu opinión. Las métricas de calidad son muy relevantes para poder ir controlando la evolución del software y para ir reduciendo riesgos durante el desarrollo. También estoy de acuerdo con lo que piensas, que aplicar estándares es fundamental para poder llegar a unos resultados confiables, o fiables. Creo también que lo importante es poder revisar las métricas continuamente, para poder ir garantizando que la información que éstas proporcionan sigan aportando información útil a medida que el proyecto evoluciona.
+-   Marcar como no leídoMarcar como no leído
+CB
+CRISTIAN ANDRES JOTA BOSSA
+17 de jul 22:11

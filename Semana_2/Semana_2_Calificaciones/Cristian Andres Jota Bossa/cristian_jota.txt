@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: Cristian Andrés Jota Bossa
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un cumplimiento parcial del resultado de aprendizaje de la semana. El estudiante desarrolla un análisis técnico completo en su estructura sobre su propio caso de estudio ("Vialexa", proveniente de un proyecto de su trabajo, opción que la actividad permite): hallazgos de auditoría con criterio incumplido y severidad, matriz de verificación y validación de 10 filas, checklist de 11 preguntas con evidencia, un plan de auditoría con objetivo, alcance, criterios, equipo auditor y evidencias, aplicación de ISO/IEC 25010 desglosada por hallazgo, y recomendaciones priorizadas con un veredicto final.
+
+Sin embargo, el reporte no incluye la sección de métricas de calidad con fórmula y criterio de aceptación (mínimo 5) que exige la actividad.
+
+2. Orientación para mejorar:
+
+Lo principal para complementar este trabajo es agregar la sección de métricas de calidad, con al menos 5 indicadores, cada uno con su fórmula o forma de medición y su criterio de aceptación numérico, que actualmente no aparece en el documento.
+
+También es importante revisar la redacción y ortografía antes de entregar: se repiten con frecuencia palabras sin tilde (está, así, técnica, situación) y hay algunos errores de digitación (por ejemplo, "daos" en vez de "datos", "aiones" en vez de "acciones") que conviene corregir con una relectura cuidadosa del documento final.
+
+CALIFICACIÓN TOTAL: 4.0 / 5.0

@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: José Luis Morales Méndez
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana, de forma sobresaliente. El estudiante entrega un desarrollo metodológicamente muy riguroso sobre su propio caso simulado ("ShopCloud ERP 5.0", opción que la actividad permite, y que declara explícitamente como escenario académico simulado en lugar de presentarlo como el caso oficial).
+
+Se apoya formalmente en ISO 19011 para estructurar el proceso de auditoría (planificación, recolección de evidencias, verificación, validación, evaluación de calidad e informe) y en ISO/IEC 25010 para evaluar las 8 características del producto con su respectivo porcentaje de cumplimiento.
+
+Incluye 10 hallazgos bien documentados con criterio incumplido, evidencia, impacto y severidad, un plan de auditoría completo con cronograma, una matriz de riesgos (probabilidad/impacto) y 5 métricas de calidad calculadas paso a paso con los datos del propio caso, cerrando con un dictamen explícito de auditor ("NO GO"). Es uno de los desarrollos más completos y mejor fundamentados metodológicamente del curso.
+
+2. Orientación para mejorar:
+
+El trabajo está muy bien logrado en su conjunto. El único detalle a corregir es de forma: revisar el título "DESARROLLO DE LA CATIVIDAD", que contiene un error de digitación (debería decir "ACTIVIDAD").
+
+CALIFICACIÓN TOTAL: 4.9 / 5.0

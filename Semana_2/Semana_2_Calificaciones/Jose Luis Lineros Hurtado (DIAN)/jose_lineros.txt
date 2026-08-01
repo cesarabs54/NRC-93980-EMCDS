@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: José Luis Lineros Hurtado
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana, de forma sobresaliente. El archivo entregado contiene dos desarrollos completos y distintos: uno sobre un sistema propio (SFE-DIAN, facturación electrónica y validación DIAN) y otro sobre el caso oficial MediCitas v3.2, ambas opciones válidas según la actividad.
+
+El desarrollo sobre MediCitas está completo y bien construido: matriz de verificación y validación con 10 filas cubriendo los 6 requisitos y funcionalidades adicionales, checklist de 14 ítems con evidencia, plan de auditoría completo, 5 hallazgos con severidad y recomendación, aplicación de ISO/IEC 25010 por hallazgo y 5 métricas con fórmula y criterio de aceptación; el desarrollo sobre SFE-DIAN, tomado de forma independiente, también está bien resuelto.
+
+2. Orientación para mejorar:
+
+El principal punto a corregir no es cuál caso se usó, ya que la actividad permite trabajar tanto el caso oficial como uno propio, sino que el documento entregado contiene dos análisis completos concatenados en un mismo archivo, lo cual genera confusión sobre cuál de los dos es la entrega final que debe evaluarse. Se recomienda que, en futuras entregas, el estudiante presente un único desarrollo coherente y completo sobre un solo caso (el que elija, propio u oficial). También conviene revisar la fecha de entrega repetida "Cesar Alfonso Bolado Silva Fecha" en la portada, que parece un campo sin completar.
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

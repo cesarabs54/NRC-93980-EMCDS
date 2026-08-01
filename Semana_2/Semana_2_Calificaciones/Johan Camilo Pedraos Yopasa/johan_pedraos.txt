@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: Johan Camilo Pedraos Yopasa
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+En buena medida sí. El estudiante presenta un análisis muy concreto y verosímil, aplicado a su propio sistema de administración parroquial (Ekklesia, opción que la actividad permite) desarrollado en Python/Flet con base de datos SQLite, con hallazgos técnicamente muy específicos (referencia a funciones y archivos reales, como hash_password() en database/db.py). 
+
+El checklist de 14 ítems, el plan de auditoría completo y las 5 métricas de calidad (densidad de hallazgos, cobertura de pruebas automatizadas, trazabilidad de registros) están bien desarrollados y ligados a evidencia real del sistema.
+
+El vacío que se observa es que la sección llamada "Matriz de Verificación y Validación" no cumple realmente esa función: en lugar de clasificar cada requisito como actividad de verificación o de validación (con técnica, responsable y criterio de aceptación), presenta una tabla de hallazgos con evidencia e impacto.
+
+2. Orientación para mejorar:
+
+Lo principal para fortalecer este trabajo es reconstruir la matriz de verificación y validación en el formato correcto: una fila por requisito o funcionalidad, indicando si corresponde verificación o validación, la técnica a aplicar, el responsable, el criterio de aceptación y la evidencia esperada, en lugar de reutilizar la tabla de hallazgos para esta sección.
+
+CALIFICACIÓN TOTAL: 4.5 / 5.0

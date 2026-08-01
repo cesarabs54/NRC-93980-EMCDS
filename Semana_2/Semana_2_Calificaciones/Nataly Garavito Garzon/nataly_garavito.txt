@@ -1,0 +1,18 @@
+NOMBRE ESTUDIANTE: Nataly Garavito Garzón
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia muestra un cumplimiento sobresaliente del resultado de aprendizaje de la semana. El estudiante desarrolló el caso oficial MediCitas v3.2, identificando 7 hallazgos de seguridad bien justificados (superando el mínimo de 5), incluyendo el hallazgo del 2FA opcional que otros desarrollos no siempre destacan de forma independiente.
+
+Construyó una matriz de verificación y validación de 10 filas, un checklist de 14 ítems con evidencia puntual, un plan de auditoría completo con sus 7 hallazgos ligados a criterio normativo y característica de ISO/IEC 25010, una aplicación del estándar por cada hallazgo (7 mapeos distintos a características y subcaracterísticas), y 6 métricas de calidad con fórmula, cálculo con datos del caso y criterio de aceptación.
+
+Cierra con recomendaciones priorizadas en tres niveles y referencias completas en formato APA, incluyendo la normativa colombiana citada correctamente.
+
+
+2. Orientación para mejorar:
+
+El desarrollo está prácticamente completo. El único punto pendiente es la métrica de "disponibilidad operativa", que el propio documento reconoce como "no calculable con la información del caso"; se podría resolver proponiendo un supuesto razonable (por ejemplo, tomando el tiempo de indisponibilidad implícito en los incidentes reportados) para dejar las 6 métricas completamente calculadas y no solo definidas.
+
+CALIFICACIÓN TOTAL: 4.8 / 5.0

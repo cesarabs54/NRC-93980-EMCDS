@@ -1,0 +1,31 @@
+INTERVENCIONES EN EL FORO - JUAN CAMILO CANASTEROS GONZALEZ
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (19 de jul 17:28) ---
+Concuerdo con ustedes compañeros, es importante primero que todo definir un estándar reconocido para que las métricas tengan un valor significativo en la organización. Considero que no todas las métricas aplican de la misma manera para todos los proyectos, por lo que es necesario tener en cuenta factores como el tipo de software, el tamaño de la empresa y las necesidades del negocio para seleccionar las más adecuadas.
+Además, una correcta aplicación de métricas permite tener una visión más clara del estado del software, identificar posibles problemas a tiempo y tomar decisiones orientadas a mejorar su mantenimiento y evolución. Sin embargo, cuando estas métricas se implementan sin una guía o estándar, pueden generar información poco confiable y llevar a decisiones incorrectas que afecten la calidad del producto.
+Por esta razón, considero que modelos como ISO/IEC 25010 son importantes, ya que brindan una base para evaluar diferentes características de calidad del software y permiten que las organizaciones trabajen con criterios definidos, buscando una mejora continua del producto y de los procesos de desarrollo.
+-   Marcar como no leídoMarcar como no leído
+JY
+JOHAN CAMILO PEDRAOS YOPASA
+19 de jul 12:06
+
+--- Publicación 2 (19 de jul 17:33) ---
+Buena tarde compañero, estoy de acuerdo con tu aporte, especialmente con el punto relacionado con la deuda técnica, ya que muchas veces durante el desarrollo se prioriza la entrega rápida de funcionalidades al cliente, dejando de lado aspectos importantes como la mantenibilidad y la calidad interna del software. Esto puede generar problemas que no son visibles inicialmente, pero que con el tiempo pueden dificultar la evolución del producto y aumentar los costos de mantenimiento.
+Considero importante también lo que mencionas sobre evitar que las decisiones dependan únicamente de percepciones individuales del equipo, ya que las métricas permiten tener una visión más objetiva del estado del proyecto. Sin embargo, estas mediciones deben estar bien definidas para que realmente representen la calidad del software y permitan identificar oportunidades de mejora.
+-   Marcar como no leídoMarcar como no leído
+JG
+JUAN CAMILO CANASTEROS GONZALEZ
+19 de jul 17:23
+
+--- Publicación 3 (19 de jul 17:23) ---
+Buenas tardes para todos,
+Respondiendo a la pregunta, considero que es importante seleccionar adecuadamente el estándar de calidad que se va a utilizar, teniendo en cuenta el contexto del proyecto, el tamaño de la empresa, el tipo de software y la información que se maneja, ya que esto permite definir métricas que realmente se adapten a las necesidades de la organización. La correcta definición y aplicación de estas métricas facilita la identificación temprana de errores, el seguimiento del desempeño del software y la toma de decisiones para mejorar su mantenimiento y evolución a lo largo del tiempo. Además, contribuye a reducir defectos, aumentar la confiabilidad del producto y garantizar que cumpla con los requisitos de calidad esperados.
+Al medir un equipo de desarrollo con estas métricas establecidas, la empresa puede tener un mejor control sobre sus procesos, identificar oportunidades de mejora y lograr sostenibilidad en el futuro, asegurando que el producto desarrollado cumpla con los requisitos técnicos y de calidad definidos.
+Por otro lado, una implementación inadecuada de métricas sin considerar estándares puede generar riesgos como mediciones incorrectas, toma de decisiones basadas en información poco confiable, aumento de defectos en el software, pérdida de confianza por parte de los clientes y posibles problemas relacionados con la seguridad, confidencialidad e integridad de la información. Esto puede ocasionar pérdidas económicas y afectar la reputación de la empresa.
+Es importante mencionar que, aplicando un marco como el estándar ISO/IEC 25010, se puede garantizar una mejor organización y planificación de las actividades durante todo el ciclo de vida del software, ya que es un modelo completo compuesto por ocho características de calidad importantes que permiten evaluar aspectos fundamentales del producto. De esta manera, las métricas definidas bajo este tipo de estándares ayudan a mantener y evolucionar el software de forma controlada, evitando que los cambios futuros afecten su calidad y funcionamiento.
+-   Marcar como no leídoMarcar como no leído
+KO
+KEVIN SANTIAGO DUARTE ORJUELA
+20 de jul 18:18

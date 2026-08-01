@@ -1,0 +1,15 @@
+NOMBRE ESTUDIANTE: Diego Alejandro Astudillo Rojas
+
+La retroalimentación que recibirás refleja tus logros y áreas de mejora, brindándote una visión integral de tu proceso de aprendizaje.
+
+1. Resultado de aprendizaje logrado:
+
+La evidencia presenta un dominio del resultado de aprendizaje de la semana. El estudiante entrega uno de los análisis mejor argumentados en cuanto a redacción y lógica, desarrollado sobre su propio caso de estudio ("TiendaExpress", opción que la actividad permite): explica el procedimiento seguido en 5 pasos, presenta 6 hallazgos de seguridad con evidencia e impacto, diferencia con claridad las actividades de verificación (revisión de código, inspección OWASP, walkthrough con el DBA) de las de validación (UAT, pentest, pruebas de carga y usabilidad), desarrolla un plan de auditoría completo (objetivo, alcance, criterios, evidencias), aplica ISO/IEC 25010 en 6 características ligadas a hallazgos concretos, y define 6 métricas con fórmula y criterio de aceptación coherentes con los datos de su propio caso.
+
+El único vacío es que la lista de verificación de revisión técnica (12 ítems) quedó sin diligenciar: la columna "Cumple (Sí/No)" está completamente vacía, por lo que el checklist no llega a mostrar un resultado.
+
+2. Orientación para mejorar:
+
+Lo más importante es completar la columna "Cumple" de la lista de verificación técnica con la respuesta (Sí/No/N.A.) para cada uno de los 12 ítems, apoyándose en los hallazgos ya identificados en el propio reporte (por ejemplo, el ítem 3 sobre cifrado de tarjetas debería marcarse "No", con referencia al hallazgo 3), de forma que el checklist deje de ser solo una lista de criterios y se convierta en un registro real de verificación aplicado a TiendaExpress.
+
+CALIFICACIÓN TOTAL: 4.6 / 5.0

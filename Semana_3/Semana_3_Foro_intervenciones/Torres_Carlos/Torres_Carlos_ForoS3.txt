@@ -1,0 +1,30 @@
+INTERVENCIONES EN EL FORO - CARLOS STEVEN TORRES ORTEGA
+Semana 3: Métricas de calidad: de la teoría a la práctica en proyectos de software
+======================================================================
+
+--- Publicación 1 (20 de jul 17:51) ---
+Buenas noches, profesor y compañeros, comparto mi participación en el foro:
+¿Cómo influye la correcta definición y aplicación de métricas de calidad en el mantenimiento y evolución del software, y qué riesgos surgen si se implementan de manera inadecuada sin contemplar el uso de estándares?
+Gracias a las métricas podemos medir la calidad del software, con estas es posible detectar errores con el fin de facilitar el mantenimiento y lograr que el sistema evolucione. Es de vital importancia saber y tener en cuenta que para lograr estas métricas debemos basarnos en estándares como la ISO/IEC 25010 que habla sobre las características de calidad que debemos tener en cuenta al momento de desarrollar el software entre ellas la funcionalidad, rendimiento, compatibilidad, usabilidad, fiabilidad, seguridad, mantenibilidad y portabilidad.
+Por otra parte pienso que si las métricas de calidad son implementadas de manera inadecuada o sin seguir los estándares, pueden presentarse diferente tipo de riesgos entre ellos la toma de decisiones equivocadas al momento del desarrollo y así hacer que los costos de mantenimiento se incrementen además de no encontrar rápidamente los errores que afecten al sistema.
+en conclusión, considero que si aplicamos la métricas de calidad y seguimos los estándares reconocidos lograremos desarrollar un software mas confiable, seguro y fácil de mantener, beneficiando a los desarrolladores y a los usuarios finales.
+-   Colapsar hilo del foro de CARLOS STEVEN TORRES ORTEGA
+Ocultar 1 respuesta
+Ocultar 1 respuesta
+-   Marcar como no leídoMarcar como no leído
+EM
+ERWIN OBREGON MENESES
+20 de jul 18:50
+
+--- Publicación 2 (20 de jul 18:15) ---
+Compañero, creo que tu contribución expone claramente la relevancia de las métricas de calidad a lo largo del ciclo de vida del software. Comparto la opinión de que estas ayudan a identificar problemas desde etapas tempranas y a mejorar los procesos de mantenimiento. Adicionalmente, considero que la implementación de normas como la ISO/IEC 29110 e ISO/IEC 25010 proporciona criterios claros para evaluar la calidad del software y previene que las decisiones se basen solamente en opiniones o percepciones. Así, las organizaciones pueden crear productos más fiables, seguros y fáciles de mantener, lo que beneficia tanto al equipo de desarrollo como a los usuarios finales.
+-   Marcar como no leídoMarcar como no leído
+KR
+KEVIN NICOLAS BUENAVENTURA RAMIREZ
+20 de jul 16:04| Last reply 20 de jul 17:38
+
+--- Publicación 3 (20 de jul 18:07) ---
+Compañero buenas tardes, muy buen aporte, considero y estoy de acuerdo contigo cuando dices "cuando están alineadas con los estándares de calidad, ofrecen datos confiables para monitorear la productividad" ya que podemos decir que gracias a los estándares de calidad pero cuando están acompañados de las métricas logramos un buen desarrollo del software y así evitamos costos en el mantenimiento y que el sistema no evolucione de una manera eficaz.
+-   Marcar como no leídoMarcar como no leído
+ANDRES STIWAR GUISADO PEREA
+20 de jul 13:15
