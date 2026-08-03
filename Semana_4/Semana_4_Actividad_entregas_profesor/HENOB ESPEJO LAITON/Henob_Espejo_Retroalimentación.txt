@@ -1,0 +1,19 @@
+NOMBRE ESTUDIANTE: HENOB ESPEJO LAITON
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de forma parcial el resultado de aprendizaje de la semana. El estudiante propuso un Sistema de Gestión de PQRS para el Hospital Regional de la Orinoquia ESE, describió el escenario y el sistema, y definió 7 requisitos funcionales y 6 no funcionales de manera clara y correctamente diferenciados.
+
+Entregó tres diagramas UML (casos de uso, actividades y clases) elaborados en Draw.io, sencillos pero coherentes con los requisitos planteados, y una sección breve de planeación y conclusiones.
+
+2. Orientación para mejorar.
+
+Al trabajo le falta el componente central de aseguramiento de la calidad exigido por la actividad: no se definieron criterios de aceptación por requisito, no se construyó una matriz de trazabilidad entre requisitos y casos de prueba, y no se identificaron puntos de control de calidad a lo largo del ciclo de vida del software.
+
+Tampoco se incluyen citas ni referencias en formato APA que respalden las decisiones tomadas.
+
+Se recomienda profundizar cada sección (la descripción del sistema y de los diagramas es muy breve), agregar los tres elementos de aseguramiento de calidad mencionados y sustentar el trabajo con fuentes bibliográficas, para alcanzar plenamente lo solicitado en la guía.
+
+
+CALIFICACIÓN TOTAL: 3.3 / 5.0

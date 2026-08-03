@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: JUAN CAMILO CANASTEROS GONZÁLEZ
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de manera amplia el alcance del resultado de aprendizaje de la semana. El estudiante modeló la plataforma Visión Latina organizada en tres módulos (autenticación, foro y preguntas a autores), con requisitos funcionales y no funcionales priorizados por módulo, tres diagramas de casos de uso (uno por módulo, con cuatro actores) y un diagrama de clases conceptual, todos elaborados en draw.io y coherentes con los requisitos. El trabajo destaca por integrar criterios de aceptación redactados en formato Dado/Cuando/Entonces, una matriz de trazabilidad explícita que relaciona requisito, caso de uso, caso de prueba y criterio de aceptación, y una tabla de puntos de control de calidad distribuidos por fase del ciclo de vida, todo ello respaldado con referencias APA.
+
+2. Orientación para mejorar.
+
+Para fortalecer aún más el trabajo se recomienda enriquecer el diagrama de clases con más atributos y métodos por clase (actualmente algunas clases como Autor solo muestran un atributo), y precisar mejor las relaciones y multiplicidades entre clases. También convendría hacer más medibles algunos requisitos no funcionales que hoy son cualitativos (por ejemplo, "debe ser escalable" o "soportar múltiples idiomas"), definiendo métricas u umbrales concretos como se hizo con el tiempo de autenticación.
+
+
+CALIFICACIÓN TOTAL: 4.4 / 5.0

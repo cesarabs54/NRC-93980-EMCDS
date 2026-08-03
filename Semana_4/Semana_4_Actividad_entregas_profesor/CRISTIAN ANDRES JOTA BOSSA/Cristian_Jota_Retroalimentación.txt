@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: CRISTIAN ANDRES JOTA BOSSA
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja plenamente el alcance del resultado de aprendizaje de la semana. El estudiante modeló Vialexa, una plataforma multitenant para empresas de transporte, documentando stakeholders, escenarios de operación, hallazgos de una entrevista de levantamiento, reglas de negocio, requisitos funcionales (RF01-RF15) y no funcionales (RNF01-RNF10) con prioridad.
+
+Incluyó diagrama de casos de uso y diagrama de clases conceptual reales y coherentes con los requisitos, criterios de aceptación, casos de prueba, una matriz de trazabilidad explícita (requisito-caso de uso-criterio de aceptación-caso de prueba) y puntos de control de calidad por fase del ciclo de vida.
+
+Cerró el trabajo relacionando el modelo con las características de la norma ISO/IEC 25010 y con referencias en formato APA.
+
+2. Orientación para mejorar.
+
+El trabajo está muy completo; como oportunidad de mejora se sugiere, en futuros ejercicios, ampliar los casos de prueba con datos de entrada y salida esperada más detallados (no solo el resultado esperado general), y considerar diagramas complementarios (por ejemplo, de secuencia) para reforzar aún más la trazabilidad entre el comportamiento del sistema y los requisitos.
+
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

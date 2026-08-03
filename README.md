@@ -62,6 +62,21 @@ Recursos en español como sustitutos reales de la bibliografía original (mayorm
 
 ---
 
+### Semana 4 — Especificación de requisitos del software
+
+- Peláez Valencia, L., Toro Lazo, A., Arias Vargas, J., & Rodríguez Franco, D. (2019). [Ingeniería de Software: el aseguramiento de la calidad de los requisitos en la industria del software en el eje cafetero colombiano](https://revistascientificas.cuc.edu.co/ingecuc/article/download/2058/2481). *INGE CUC*, 15(2), 110-122.
+- Arias, M. (2007). [La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software](https://www.redalyc.org/articulo.oa?id=66612870011). *InterSedes: Revista de las Sedes Regionales* (Universidad de Costa Rica).
+- Molina Hernández, Y., Granda Dihigo, A., & Velázquez Cintra, A. (2019). [Los requisitos no funcionales de software. Una estrategia para su desarrollo en el Centro de Informática Médica](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2227-18992019000200077&lng=es&nrm=iso&tlng=es). *Revista Cubana de Ciencias Informáticas*, 13(2), 77-90.
+
+**Recursos complementarios:**
+
+- [Ingeniería de Software: el aseguramiento de la calidad de los requisitos en la industria del software en el eje cafetero colombiano (INGE CUC)](https://revistascientificas.cuc.edu.co/ingecuc/article/download/2058/2481)
+- [La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software (Redalyc)](https://www.redalyc.org/articulo.oa?id=66612870011)
+- [Los requisitos no funcionales de software. Una estrategia para su desarrollo en el Centro de Informática Médica (SciELO Cuba)](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2227-18992019000200077&lng=es&nrm=iso&tlng=es)
+- [Especificación de Requisitos según el estándar de IEEE 830 (UCM)](https://www.fdi.ucm.es/profesor/gmendez/docs/is0809/ieee830.pdf)
+
+---
+
 
 
 

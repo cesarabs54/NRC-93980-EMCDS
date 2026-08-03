@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: JOSE LUIS LINEROS HURTADO
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja plenamente el alcance del resultado de aprendizaje de la semana. El estudiante desarrolló el sistema MediCitas (IPS Salud Total) con una descripción técnica completa, siete actores identificados, ocho requisitos funcionales y seis no funcionales con métricas verificables, y anexó como archivos independientes el diagrama de casos de uso y el diagrama de clases conceptual elaborados en Visual Paradigm, ambos coherentes entre sí y con los requisitos definidos.
+
+Adicionalmente, el documento incluye una tabla de criterios de aceptación por requisito, una matriz de trazabilidad que conecta cada requisito con su caso de uso, caso de prueba y resultado esperado, y una tabla de puntos de control de calidad por fase del ciclo de vida con su instrumento de verificación asociado.
+
+El trabajo cierra con planeación, conclusiones y referencias en formato APA.
+
+2. Orientación para mejorar.
+
+El trabajo está muy completo y bien estructurado; como único ajuste menor, se sugiere ampliar ligeramente la sección de conclusiones con una reflexión más personal sobre las dificultades o aprendizajes concretos del proceso de modelado, más allá de la síntesis de lo realizado, para enriquecer aún más el cierre del documento.
+
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

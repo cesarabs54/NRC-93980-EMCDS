@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: KEVIN NICOLÁS BUENAVENTURA RAMÍREZ
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja plenamente el alcance del resultado de aprendizaje de la semana. El estudiante modeló el sistema STS (Sistema de Tickets de Soporte), con ocho requisitos funcionales y cinco no funcionales medibles, un diagrama de casos de uso con relaciones «include» entre cuatro actores, y un diagrama de clases conceptual sólido, con jerarquía de herencia (Usuario especializado en Solicitante, AgenteSoporte y AdministradorMesa), enumeraciones (Prioridad, EstadoTicket), clases de servicio y multiplicidades bien definidas. El documento justifica con criterio técnico las decisiones de diseño, incluye una tabla de criterios de aceptación verificables para los ocho requisitos, una matriz de trazabilidad básica requisito-caso de prueba y un diagrama propio de puntos de control de calidad distribuidos en las cinco fases del ciclo de vida del software. Cierra con una reflexión personal genuina y referencias en formato APA.
+
+2. Orientación para mejorar.
+
+El trabajo es sobresaliente; como observaciones menores, se sugiere completar la matriz de trazabilidad para que cubra los ocho requisitos funcionales (actualmente relaciona seis de ellos con un caso de prueba explícito) y usar una herramienta de modelado UML convencional (Draw.io, Visual Paradigm, StarUML o similar) en lugar de un script propio de generación de diagramas, de modo que el proceso de modelado sea directamente reproducible y verificable con las herramientas sugeridas por la actividad.
+
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

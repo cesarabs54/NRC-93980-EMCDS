@@ -1,0 +1,12 @@
+NOMBRE ESTUDIANTE: NATALY GARAVITO GARZÓN
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de forma completa el resultado de aprendizaje de la semana. La estudiante propuso un Sistema de Gestión de Incidencias de Calidad del Software (SGICS) y lo documentó con requisitos funcionales y no funcionales, criterios de aceptación, un diagrama de casos de uso con notación UML estándar (actores Analista QA, Desarrollador y Administrador), un diagrama de clases con atributos, métodos y relaciones, y una matriz de trazabilidad explícita que vincula cada requisito con su caso de prueba, prioridad y estado. Adicionalmente incluyó un diagrama de puntos de control de calidad a lo largo de las seis fases del ciclo de vida del software y una justificación técnica de las decisiones de diseño.
+
+2. Orientación para mejorar.
+
+El documento cumple con todos los componentes solicitados, pero los requisitos funcionales y no funcionales están redactados de manera muy breve (una sola línea cada uno), sin detallar condiciones o umbrales medibles más allá de disponibilidad y tiempo de respuesta. Se sugiere profundizar la redacción de los requisitos con criterios de medición más específicos y ampliar la sección de planeación describiendo con mayor detalle las técnicas de elicitación empleadas, para elevar aún más el rigor técnico del documento.
+
+CALIFICACIÓN TOTAL: 4.7 / 5.0

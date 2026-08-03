@@ -1,0 +1,19 @@
+NOMBRE ESTUDIANTE: ERWIN OBREGON MENESES
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de manera adecuada el resultado de aprendizaje de la semana. El estudiante modeló un Sistema de Gestión de Citas Médicas, documentando contexto, stakeholders, escenarios, restricciones y supuestos, y definió 15 requisitos funcionales detallados (con actor, precondición, flujo principal, flujo alternativo y poscondición) junto con 10 requisitos no funcionales asociados a criterios de calidad medibles (disponibilidad, rendimiento, seguridad, escalabilidad, etc.).
+
+Entregó además un diagrama de casos de uso y un diagrama de clases conceptual completos y técnicamente bien construidos, con actores, relaciones include/extend, atributos, métodos, multiplicidades y enumeraciones, lo que demuestra manejo correcto de la notación UML.
+
+2. Orientación para mejorar.
+
+El documento menciona como objetivo la trazabilidad entre requisitos y casos de prueba, pero esta matriz no llega a materializarse en el trabajo entregado, y tampoco se incluyen criterios de aceptación explícitos por requisito (tipo Dado/Cuando/Entonces u otro formato verificable).
+
+Se recomienda incorporar dicha matriz y los criterios de aceptación para cerrar el ciclo requisito-criterio-prueba-control exigido por la actividad.
+
+Asimismo, el documento no presenta secciones explícitas de Planeación (pasos, herramientas y técnicas usadas) ni de Conclusiones, que sí se solicitan en la guía de la actividad; conviene añadirlas para completar la estructura documental esperada.
+
+
+CALIFICACIÓN TOTAL: 4.0 / 5.0

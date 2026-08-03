@@ -1,0 +1,12 @@
+NOMBRE ESTUDIANTE: OMAR AUGUSTO CARDONA SUÁREZ
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de manera sobresaliente el resultado de aprendizaje de la semana. El estudiante desarrolló un caso completo de ingeniería de requisitos y aseguramiento de la calidad para un Sistema de OnBoarding de Terceros Proveedores de Pago (TPP), siguiendo un proceso estructurado en diez pasos: definición de contexto, identificación de stakeholders, matriz usuario-escenario, instrumentos de entrevista, actas de validación, catálogo de requisitos funcionales y no funcionales, fichas de especificación bajo IEEE-830, una matriz de criterios de calidad medibles con métricas y umbrales de aceptación por cada fase (ISO/IEC 25010), y cuatro diagramas UML elaborados en PlantUML (casos de uso, clases conceptual, trazabilidad requisitos-casos de prueba y proceso de aseguramiento de la calidad), todos con notación técnica correcta y coherentes entre sí.
+
+2. Orientación para mejorar.
+
+El trabajo es muy completo y riguroso; como oportunidad de mejora se sugiere anexar el catálogo completo de casos de prueba (actualmente solo se presentan tres fichas SRS de ejemplo) para cerrar totalmente el ciclo de trazabilidad hasta la verificación, y revisar algunos detalles menores de ortografía y formato en el documento final.
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

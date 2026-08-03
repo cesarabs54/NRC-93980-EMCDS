@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: YEYSON NOLBERTO HENAO
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja plenamente el resultado de aprendizaje de la semana. El estudiante modeló un sistema real de su contexto laboral (la Encuesta de Satisfacción del Servicio de la ESE Hospital San Vicente de Paúl), con una descripción técnica sólida de la arquitectura, requisitos funcionales y no funcionales clasificados según ISO/IEC 25010, y tres diagramas UML complementarios (casos de uso, clases conceptual y de actividad) técnicamente correctos y coherentes entre sí.
+
+El documento integra de forma estructurada criterios de aceptación redactados en formato Dado/Cuando/Entonces para los requisitos críticos, una matriz de trazabilidad que vincula cada requisito con su caso de prueba y punto de control, y seis puntos de control de calidad distribuidos explícitamente a lo largo del ciclo de vida del software (QC-1 a QC-6), representados incluso en el propio diagrama de actividad.
+
+Incluye también Planeación, Modelado y Conclusiones bien desarrolladas, con referencias en formato APA.
+
+2. Orientación para mejorar.
+
+El trabajo es completo y de muy buen nivel técnico; como oportunidad de mejora, se sugiere para futuros ejercicios anexar también las especificaciones detalladas de dos o tres casos de uso adicionales (flujo alternativo, excepciones y reglas de negocio) para reforzar aún más la trazabilidad entre el diagrama de casos de uso y la especificación textual, y ampliar ligeramente la justificación de las relaciones de composición y dependencia del diagrama de clases.
+
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

@@ -1,0 +1,16 @@
+NOMBRE ESTUDIANTE: ANDRES STIWAR GUISADO PEREA
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de manera sobresaliente el resultado de aprendizaje de la semana. El estudiante desarrolló un caso original y bien delimitado (una plataforma SaaS multi-tenant de gestión de restaurantes), con portada, introducción, desarrollo, planeación, modelado y conclusiones completos.
+
+El documento incluye requisitos funcionales y no funcionales medibles, una justificación de diseño explícita y argumentada (por ejemplo, la separación de Tenant y Usuario para sostener el aislamiento de datos), un diagrama de casos de uso con relaciones <<include>>/<<extend>> correctamente aplicadas, un diagrama de clases conceptual con multiplicidades, composición y generalización, una matriz de trazabilidad requisito-caso de uso-caso de prueba-criterio de aceptación-punto de control, un esquema visual de puntos de control de calidad por fase, y referencias en formato APA que sustentan las decisiones metodológicas tomadas.
+
+
+2. Orientación para mejorar.
+
+El trabajo cumple de forma integral con lo solicitado. Como oportunidad de mejora menor, se podría ampliar la matriz de trazabilidad para cubrir la totalidad de los requisitos funcionales y no funcionales definidos (actualmente solo se documentan ocho de los dieciocho), de modo que la cobertura de verificación quede evidenciada para el conjunto completo de la especificación.
+
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

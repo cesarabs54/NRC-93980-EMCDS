@@ -1,0 +1,13 @@
+NOMBRE ESTUDIANTE: DIEGO ALEJANDRO ASTUDILLO ROJAS
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja plenamente el alcance del resultado de aprendizaje de la semana. El estudiante modeló EcoMarket, una plataforma de comercio electrónico B2C, con un diagrama de casos de uso claro que usa relaciones «include»/«extend» de forma correcta, y un diagrama de clases conceptual que separa un subdominio transaccional de un subdominio de aseguramiento de calidad unidos por trazabilidad, incluyendo herencia (superclase Usuario). Documentó requisitos funcionales y no funcionales medibles y alineados a ISO/IEC 25010, criterios de aceptación en formato Dado/Cuando/Entonces vinculados a puntos de control, una matriz de trazabilidad con estado por requisito, un esquema propio de puntos de control de calidad (PC1-PC6) en el ciclo de vida y referencias en formato APA.
+
+2. Orientación para mejorar.
+
+El trabajo es sobresaliente en contenido y estructura. Como aspecto de forma, el diagrama de clases (generado con Python/matplotlib) presenta algunas superposiciones de texto entre atributos y operaciones que dificultan levemente la lectura; se recomienda revisar el espaciado de las cajas de clase antes de la entrega final para mejorar la presentación visual del modelo.
+
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

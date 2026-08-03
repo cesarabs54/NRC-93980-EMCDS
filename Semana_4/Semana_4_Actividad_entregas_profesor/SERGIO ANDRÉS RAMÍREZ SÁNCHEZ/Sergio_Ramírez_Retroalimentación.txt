@@ -1,0 +1,12 @@
+NOMBRE ESTUDIANTE: SERGIO ANDRÉS RAMÍREZ SÁNCHEZ
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de manera sobresaliente el resultado de aprendizaje de la semana. El estudiante modeló un Sistema de Gestión de Inventario documentando siete casos de uso, cada uno con ficha completa (objetivo, actores, precondiciones, postcondiciones, flujo principal, flujos alternativos, reglas de negocio, requisitos relacionados, criterios de aceptación y casos de prueba asociados), acompañados de sus respectivos diagramas UML con notación estándar. Incluyó también un diagrama de clases coherente, requisitos funcionales y no funcionales, una matriz de trazabilidad, una tabla de puntos de control de calidad por etapa del ciclo de vida y una matriz adicional de control de acceso por roles (RBAC), evidenciando una integración robusta del aseguramiento de la calidad.
+
+2. Orientación para mejorar.
+
+El documento es muy completo y detallado; como único aspecto a fortalecer se sugiere consolidar, además de los diagramas de casos de uso individuales por funcionalidad, un diagrama de casos de uso general que muestre de un solo vistazo la totalidad de actores y funcionalidades del sistema, lo cual facilitaría aún más la comunicación del alcance global de la solución.
+
+CALIFICACIÓN TOTAL: 5.0 / 5.0

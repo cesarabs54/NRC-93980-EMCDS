@@ -1,0 +1,12 @@
+NOMBRE ESTUDIANTE: YESID AVILA SOTELO
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de forma amplia el resultado de aprendizaje de la semana. El estudiante modeló un Sistema de Gestión de Préstamos para una Biblioteca Universitaria, documentando diez requisitos funcionales y diez no funcionales bien diferenciados, una tabla de criterios de aceptación por requisito, una matriz de trazabilidad básica entre requisitos y casos de prueba con resultado esperado, y una tabla de puntos de control de calidad para cada fase del ciclo de vida del software. Adjuntó además los archivos originales de StarUML con el diagrama de casos de uso (actores Estudiante, Bibliotecario y Administrador) y el diagrama de clases conceptual, ambos coherentes entre sí y alineados con los requisitos descritos en el documento.
+
+2. Orientación para mejorar.
+
+El documento entregado no incluye una sección de "Conclusiones" independiente con la reflexión final sobre el ejercicio, y los diagramas UML no se insertaron como imágenes dentro del documento Word (solo se mencionan como archivos anexos en StarUML), lo que dificulta su lectura integrada sin abrir la herramienta de modelado. Se recomienda incorporar capturas de los diagramas directamente en el cuerpo del trabajo y añadir el apartado de conclusiones solicitado en la guía de la actividad.
+
+CALIFICACIÓN TOTAL: 4.6 / 5.0

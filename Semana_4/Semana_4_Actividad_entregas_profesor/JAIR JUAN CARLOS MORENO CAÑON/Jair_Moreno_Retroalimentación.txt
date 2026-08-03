@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: JAIR JUAN CARLOS MORENO CAÑON
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja adecuadamente el resultado de aprendizaje de la semana. El estudiante modeló una Tienda Virtual, con descripción del sistema, 13 requisitos funcionales y 7 no funcionales claros y medibles, y dos diagramas UML (casos de uso y clases conceptual) técnicamente correctos, con herencia, atributos, métodos y multiplicidades.
+
+El documento incorpora, además, una tabla de criterios de aceptación, una matriz de trazabilidad entre requisitos y casos de prueba, y una relación explícita de puntos de control de calidad organizados por etapa del ciclo de vida (análisis, diseño, desarrollo, pruebas, implementación y mantenimiento), junto con las secciones de planeación, herramientas, técnicas y conclusiones.
+
+2. Orientación para mejorar.
+
+Para fortalecer el trabajo se recomienda ampliar la cobertura de los criterios de aceptación y de la matriz de trazabilidad, ya que actualmente no cubren la totalidad de los requisitos funcionales definidos (quedan por fuera, por ejemplo, RF-07, RF-11, RF-12 y RF-13).
+
+También se sugiere incorporar un diagrama adicional (por ejemplo, de actividades o de secuencia) para reforzar la trazabilidad entre el comportamiento del sistema y los requisitos, y agregar una sección de referencias en formato APA que respalde conceptualmente las decisiones de diseño y los estándares utilizados.
+
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

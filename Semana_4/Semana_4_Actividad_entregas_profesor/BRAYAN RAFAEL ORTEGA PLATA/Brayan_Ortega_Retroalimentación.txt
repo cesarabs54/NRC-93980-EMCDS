@@ -1,0 +1,16 @@
+NOMBRE ESTUDIANTE: BRAYAN RAFAEL ORTEGA PLATA
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja de manera sobresaliente el resultado de aprendizaje de la semana. El estudiante propuso el sistema CafeQ (gestión de pedidos y fidelización para una cafetería) y entregó el documento completo con portada, introducción, desarrollo, planeación, modelado y conclusiones.
+
+Definió quince requisitos funcionales y cinco no funcionales con rol, prioridad y descripción; justificó con detalle sus decisiones de diseño (herencia de Usuario hacia Cliente/Barista/Administrador, y el uso diferenciado de composición, agregación y asociación en el diagrama de clases); redactó criterios de aceptación en formato Gherkin (Dado/Cuando/Entonces) para los requisitos críticos; construyó una matriz de trazabilidad requisito-caso de prueba-resultado esperado; y estableció puntos de control de calidad por fase con responsable y herramienta asociada. Los diagramas de casos de uso y de clases entregados son reales, con notación UML correcta (generalización, composición, agregación y multiplicidades).
+
+
+2. Orientación para mejorar.
+
+El trabajo es muy completo en contenido técnico. Para fortalecerlo, se recomienda incorporar una sección de referencias bibliográficas en formato APA, ya que el documento no la incluye, y aumentar la resolución/tamaño de las imágenes de los diagramas UML, que se ven un poco pequeñas para apreciar con comodidad los detalles de atributos y métodos de cada clase.
+
+
+CALIFICACIÓN TOTAL: 4.9 / 5.0

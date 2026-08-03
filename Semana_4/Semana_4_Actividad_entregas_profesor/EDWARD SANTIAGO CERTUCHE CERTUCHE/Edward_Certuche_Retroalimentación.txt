@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: EDWARD SANTIAGO CERTUCHE CERTUCHE
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja en buena medida el alcance del resultado de aprendizaje de la semana. El estudiante modeló el módulo de Administración del Coordinador del sistema DEPORTEX (escuelas de formación deportiva), documentando contexto de uso, escenarios y usuarios, 25 requisitos funcionales y 10 no funcionales, un diagrama de casos de uso detallado y un diagrama de clases conceptual con herencia (Usuario, Instructor, Coordinador) coherente con los requisitos.
+
+Incluyó además una sección de criterios de aceptación por requisito, una tabla de validación de requisitos y una tabla de puntos de control de calidad que cubre todas las fases del ciclo de vida del software.
+
+2. Orientación para mejorar.
+
+Para fortalecer el trabajo se recomienda construir una matriz de trazabilidad explícita que conecte cada requisito con su caso de prueba, criterio de aceptación y punto de control en una sola tabla (actualmente estos elementos están distribuidos en secciones separadas sin un enlace directo y consolidado).
+
+También conviene expresar más requisitos no funcionales con métricas verificables (la mayoría son cualitativos, salvo la disponibilidad y el tiempo de respuesta) y agregar la sección de referencias bibliográficas en formato APA, que no aparece en el documento entregado.
+
+
+CALIFICACIÓN TOTAL: 4.3 / 5.0

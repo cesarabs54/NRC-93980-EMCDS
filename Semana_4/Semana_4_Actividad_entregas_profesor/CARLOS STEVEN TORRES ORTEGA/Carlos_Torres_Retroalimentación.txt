@@ -1,0 +1,17 @@
+NOMBRE ESTUDIANTE: CARLOS STEVEN TORRES ORTEGA
+
+
+1. Resultado de aprendizaje logrado.
+
+La evidencia refleja parcialmente el alcance del resultado de aprendizaje de la semana. El estudiante propuso un sistema de gestión de biblioteca universitaria y documentó una introducción, una descripción del sistema, requisitos funcionales (RF-01 a RF-08) y no funcionales (RNF-01 a RNF-06) diferenciados con códigos, además de un diagrama de casos de uso (con los actores bibliotecario, estudiante y administrador) y un diagrama de clases conceptual (Usuario, Libro, Préstamo, Bibliotecario, Estudiante) coherentes entre sí. También incluyó planeación, conclusiones y bibliografía en formato APA.
+
+2. Orientación para mejorar.
+
+El trabajo menciona en el texto que se definieron "criterios de aceptación", "trazabilidad" y "casos de prueba", pero estos elementos no se desarrollan de forma explícita: no hay una tabla de criterios de aceptación por requisito, ni una matriz de trazabilidad que conecte requisitos con casos de prueba, ni puntos de control de calidad identificados por fase del ciclo de vida.
+
+Se recomienda construir estos artefactos de manera concreta (tablas o matrices), ya que son el núcleo del aseguramiento de la calidad que pide la actividad.
+
+Adicionalmente, conviene revisar la portada (aparece "Semana 3" en lugar de "Semana 4") y pulir algunas imprecisiones de redacción.
+
+
+CALIFICACIÓN TOTAL: 3.6 / 5.0
