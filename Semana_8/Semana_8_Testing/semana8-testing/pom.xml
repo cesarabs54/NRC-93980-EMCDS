@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.uniminuto</groupId>
+    <artifactId>semana8-testing</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+    <name>Semana 8 - Aseguramiento de Calidad con Pruebas</name>
+    <description>
+        Proyecto didáctico para el curso Estándares y Métricas de Calidad.
+        Ilustra los tres niveles de la pirámide de pruebas:
+          1. Unitarias  → rápidas, aisladas, muchas
+          2. Integración → interacción real entre componentes
+          3. Aceptación  → criterios de usuario en lenguaje natural (BDD)
+    </description>
+
+    <properties>
+        <java.version>17</java.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <!-- Versiones centralizadas (buena práctica: un solo lugar para actualizar) -->
+        <junit.version>5.10.2</junit.version>
+        <mockito.version>5.11.0</mockito.version>
+        <cucumber.version>7.16.1</cucumber.version>
+        <h2.version>2.2.224</h2.version>
+    </properties>
+
+    <dependencies>
+
+        <!-- ============================================================
+             DEPENDENCIAS DE PRODUCCIÓN
+             ============================================================ -->
+
+        <!-- Lombok: reduce boilerplate (getters, constructores, builders) -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.32</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- ============================================================
+             DEPENDENCIAS DE PRUEBAS
+             ============================================================ -->
+
+        <!-- JUnit 5: motor de ejecución de pruebas unitarias e integración -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- Mockito: creación de dobles de prueba (mocks, stubs, spies)
+             Fundamental para aislar la unidad bajo prueba -->
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>${mockito.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- H2: base de datos en memoria para pruebas de integración
+             Evita dependencias externas; el esquema se crea al iniciar el test -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>${h2.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- Cucumber + JUnit 5: motor BDD para pruebas de aceptación
+             Los escenarios .feature son ejecutables, no solo documentación -->
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <version>${cucumber.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-junit-platform-engine</artifactId>
+            <version>${cucumber.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-suite</artifactId>
+            <version>1.10.2</version>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <!-- Plugin Maven Surefire: ejecuta las pruebas JUnit 5 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.2.5</version>
+                <configuration>
+                    <!-- Incluye también las suites de Cucumber -->
+                    <includes>
+                        <include>**/*Test.java</include>
+                        <include>**/*Suite.java</include>
+                    </includes>
+                </configuration>
+            </plugin>
+
+            <!-- Plugin de compilación con soporte Lombok -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.13.0</version>
+                <configuration>
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                            <version>1.18.32</version>
+                        </path>
+                    </annotationProcessorPaths>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
